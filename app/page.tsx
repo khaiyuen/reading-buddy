@@ -9,10 +9,10 @@ const SERIES_EMOJI: Record<string, string> = {
 };
 
 const DIFFICULTY_LABEL: Record<string, { label: string; stars: string }> = {
-  "secret-explorers": { label: "Easiest", stars: "⭐" },
+  "dragon-masters":   { label: "Easiest", stars: "⭐" },
   "magic-tree-house": { label: "Easy", stars: "⭐⭐" },
-  "a-to-z-mysteries": { label: "Medium", stars: "⭐⭐⭐" },
-  "dragon-masters": { label: "A bit harder", stars: "⭐⭐⭐⭐" },
+  "secret-explorers": { label: "Medium", stars: "⭐⭐⭐" },
+  "a-to-z-mysteries": { label: "A bit harder", stars: "⭐⭐⭐⭐" },
 };
 
 export default function HomePage() {

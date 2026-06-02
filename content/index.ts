@@ -6,10 +6,10 @@ import dragonMasters from "./dragon-masters";
 
 // Ordered easiest → hardest
 const allSeries: Series[] = [
-  secretExplorers,  // ages 5-8, shortest books, simplest plots
-  magicTreeHouse,   // ages 6-9, adventure/history, moderate length
-  aToZMysteries,    // ages 6-9, mystery genre, slightly more complex
-  dragonMasters,    // ages 6-9, fantasy, most text-heavy
+  dragonMasters,    // easiest — short chapters, simple fantasy
+  magicTreeHouse,   // easy — adventure/history, moderate length
+  secretExplorers,  // medium — non-fiction concepts mixed in
+  aToZMysteries,    // hardest — mystery reasoning, most complex
 ];
 
 export default allSeries;
