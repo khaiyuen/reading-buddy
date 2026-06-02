@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useEffect } from "react";
 import Link from "next/link";
 import { useSpeech } from "@/components/useSpeech";
 import { useProgress } from "@/components/useProgress";
@@ -30,9 +30,17 @@ export default function QuizClient({
   const total = book.questions.length;
   const current = book.questions[qIndex];
 
+  // Speak "Listen for…" as soon as the intro screen mounts.
+  // Works on Android/desktop; iOS Safari blocks autoplay after navigation
+  // (no user gesture on the new page yet) — the 🔊 button below is the fallback.
+  useEffect(() => {
+    speak(book.listenFor);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);  // intentionally run once on mount only
+
   const handleStart = useCallback(() => {
-    // First speech MUST be triggered by user tap (iOS requirement)
-    speak(book.listenFor + "  " + book.questions[0].q);
+    // Speak the first question immediately — listenFor already played on mount
+    speak(book.questions[0].q);
     setPhase("question");
     setQIndex(0);
   }, [book, speak]);
@@ -138,9 +146,20 @@ export default function QuizClient({
               <p className="text-lg text-gray-600">{book.dragon}</p>
             )}
           </div>
-          <p className="text-xl text-gray-700 max-w-xs leading-relaxed italic">
-            "{book.listenFor}"
-          </p>
+          {/* listenFor card — tappable to re-hear on iOS where autoplay is blocked */}
+          <button
+            onClick={() => speak(book.listenFor)}
+            className="rounded-2xl px-6 py-4 max-w-xs text-center active:scale-95 transition-transform"
+            style={{ backgroundColor: book.color + "22" }}
+          >
+            <p className="text-xl text-gray-700 leading-relaxed italic">
+              "{book.listenFor}"
+            </p>
+            <p className="text-sm mt-2 font-semibold" style={{ color: book.color }}>
+              🔊 Tap to hear again
+            </p>
+          </button>
+
           <button
             onClick={handleStart}
             className="text-2xl font-bold text-white rounded-3xl px-10 py-6 shadow-lg active:scale-95 transition-transform"
