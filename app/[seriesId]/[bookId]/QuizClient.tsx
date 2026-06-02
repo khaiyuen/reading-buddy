@@ -8,6 +8,13 @@ import type { Series, Book } from "@/content/types";
 
 type Phase = "intro" | "question" | "answer" | "finish";
 
+const SERIES_EMOJI: Record<string, string> = {
+  "secret-explorers": "🔭",
+  "magic-tree-house": "🌳",
+  "a-to-z-mysteries": "🔍",
+  "dragon-masters": "🐉",
+};
+
 export default function QuizClient({
   series,
   book,
@@ -122,7 +129,7 @@ export default function QuizClient({
       {/* INTRO PHASE */}
       {phase === "intro" && (
         <div className="flex-1 flex flex-col items-center justify-center gap-8 text-center">
-          <div className="text-7xl">🐉</div>
+          <div className="text-7xl">{SERIES_EMOJI[series.id] ?? "📖"}</div>
           <div>
             <h1 className="text-3xl font-bold mb-2" style={{ color: book.color }}>
               {book.title}
