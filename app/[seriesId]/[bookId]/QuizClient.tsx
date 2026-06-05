@@ -56,22 +56,11 @@ export default function QuizClient({ series, book }: { series: Series; book: Boo
   // ── auto-speak listenFor on mount (iOS may silently skip — tap card as fallback)
   useEffect(() => { speak(book.listenFor); }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
-  // ── rebuild choices whenever question index changes (choice mode only)
-  useEffect(() => {
-    if (mode === "choice") setChoices(buildChoices(book, qIndex));
-    setPicked(null);
-  }, [qIndex, mode, book]);
-
-  // ── read choices aloud after question is spoken (small delay so they don't overlap)
+  // ── speak question + choices as ONE utterance so order is guaranteed to match the screen
   const speakQuestionAndChoices = useCallback((qi: number, ch: { text: string }[]) => {
-    speak(book.questions[qi].q);
-    const delay = (book.questions[qi].q.length / 14 + 1) * 1000; // rough duration estimate
-    setTimeout(() => {
-      speak(
-        "Is it… " +
-          ch.map((c, i) => `Choice ${i + 1}: ${c.text}`).join("… or… ")
-      );
-    }, delay);
+    const q = book.questions[qi].q;
+    const options = ch.map((c, i) => `Choice ${i + 1}. ${c.text}`).join(". ");
+    speak(`${q}. Is it... ${options}`);
   }, [book, speak]);
 
   // ── START
