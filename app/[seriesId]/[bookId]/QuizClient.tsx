@@ -1,10 +1,11 @@
 "use client";
 
-import { useState, useCallback, useEffect, useMemo } from "react";
+import { useState, useCallback, useEffect } from "react";
 import Link from "next/link";
 import { useSpeech } from "@/components/useSpeech";
 import { useProgress } from "@/components/useProgress";
 import type { Series, Book } from "@/content/types";
+import allDistractors from "@/content/distractors";
 
 type Phase = "intro" | "question" | "revealed" | "finish";
 type Mode = "choice" | "open";
@@ -16,15 +17,25 @@ const SERIES_EMOJI: Record<string, string> = {
   "dragon-masters": "🐉",
 };
 
-/** Pick 2 distractors from other questions in the same book, shuffle with correct answer */
+/** Build 3 shuffled choices using authored distractors for this book/question */
 function buildChoices(book: Book, qIndex: number): { text: string; correct: boolean }[] {
   const correct = book.questions[qIndex].a;
-  const others = book.questions
-    .filter((_, i) => i !== qIndex)
-    .map((q) => q.a)
-    .sort(() => Math.random() - 0.5)
-    .slice(0, 2);
-  return [{ text: correct, correct: true }, ...others.map((t) => ({ text: t, correct: false }))]
+  const bookDistractors = allDistractors[book.id];
+  let wrongs: string[];
+
+  if (bookDistractors?.[qIndex]) {
+    // Use the two authored plausible-but-wrong answers
+    wrongs = [...bookDistractors[qIndex]];
+  } else {
+    // Fallback: other answers from the same book (shouldn't reach here once all distractors are authored)
+    wrongs = book.questions
+      .filter((_, i) => i !== qIndex)
+      .map((q) => q.a)
+      .sort(() => Math.random() - 0.5)
+      .slice(0, 2);
+  }
+
+  return [{ text: correct, correct: true }, ...wrongs.map((t) => ({ text: t, correct: false }))]
     .sort(() => Math.random() - 0.5);
 }
 
