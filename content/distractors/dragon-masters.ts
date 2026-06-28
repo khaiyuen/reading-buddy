@@ -785,57 +785,30 @@ const dragonMastersDistractors: DistractorMap = {
     ],
   ],
   "dm-30": [
-    // Q1: What disaster did the Vortex Dragon create when it lost control?
+    // Q1: What started going wrong when the Chaos Dragon appeared?
     [
-      "It tore a hole in the sky above the castle that flashed with strange colors and made everyone feel dizzy.",
-      "It created a spinning funnel underground that swallowed whole roads and made traveling through the kingdom impossible.",
+      "The Chaos Dragon let out a roar so loud it shook the castle walls and cracked the stone floor of the Dragon Masters' training room.",
+      "The Chaos Dragon breathed out a dark cloud that put every dragon in the kingdom into a deep, enchanted sleep.",
     ],
-    // Q2: Why was the Vortex Dragon so hard to stop?
+    // Q2: Why was the Chaos Dragon so difficult for the Dragon Masters to deal with?
     [
-      "The spinning vortex around it reflected any magic fired at it, sending spells flying back at whoever cast them.",
-      "Looking at the spinning vortex made the Dragon Masters too dizzy to think straight or plan their next move.",
+      "The Chaos Dragon moved so fast that none of the other dragons could keep up with it or get close enough to help.",
+      "The Chaos Dragon's roar was so disorienting that anyone who heard it forgot what they were supposed to be doing.",
     ],
-    // Q3: How did the Dragon Masters manage to get near the Vortex Dragon?
+    // Q3: What did the Dragon Masters try in order to reach the Chaos Dragon?
     [
-      "Bo's dragon Shu surrounded the team in a bubble of calm water that the vortex couldn't pull apart.",
-      "Ana's dragon Kepri blasted the vortex with sunlight until it weakened enough for the team to approach.",
+      "Drake asked Worm to teleport the whole team directly next to the Chaos Dragon so they could reach it instantly.",
+      "Bo's dragon Shu surrounded the team in a bubble of calm water to protect them from the wild energy swirling around them.",
     ],
-    // Q4: What was the Vortex Dragon's special power?
+    // Q4: What was the Chaos Dragon's special power?
     [
-      "It could increase the size of its vortex until it became large enough to swallow an entire building.",
-      "It could aim its vortex like a beam, using it to suck the weapons right out of an enemy's hands.",
+      "It could breathe a cloud of wild sparks that scrambled any magic it touched, turning spells into random bursts of energy.",
+      "It could flap its wings to send out shockwaves that knocked over anything nearby and scattered the Dragon Masters in all directions.",
     ],
-    // Q5: How was the chaos finally stopped?
+    // Q5: How did the Dragon Masters finally bring order back?
     [
-      "The Vortex Dragon's Dragon Master arrived just in time and bonded with the dragon, helping it regain control.",
-      "Griffith cast a stillness spell that froze the air around the Vortex Dragon until it calmed down on its own.",
-    ],
-  ],
-  "dm-31": [
-    // Q1: Why was the Swamp Dragon in danger?
-    [
-      "Its swamp home was being drained by a nearby village that needed the water for their farms.",
-      "A rival dragon had moved into the swamp and was bullying the Swamp Dragon out of its own territory.",
-    ],
-    // Q2: What made the swamp a difficult place for the Dragon Masters to work in?
-    [
-      "The swamp plants were magical and grabbed at the Dragon Masters' ankles, trying to slow them down.",
-      "The swamp water smelled so strongly that it was hard to concentrate, and everything stayed wet and slippery.",
-    ],
-    // Q3: How did the Swamp Dragon try to protect itself?
-    [
-      "It mimicked the sounds of scary creatures to frighten away anyone who came too close.",
-      "It dragged leaves and branches together to build a barrier around itself that blocked the entrance to its den.",
-    ],
-    // Q4: What was the Swamp Dragon's special power?
-    [
-      "It could spray a sticky slime from its mouth that glued enemies' feet to the ground so they couldn't move.",
-      "It could call swarms of swamp insects to swirl around an enemy in a buzzing cloud and drive them away.",
-    ],
-    // Q5: How did the Dragon Masters defend it in the end?
-    [
-      "They used Worm to seal the entrances to the swamp so the hunters could no longer find their way in.",
-      "They convinced the king to declare the swamp a protected land where no hunting was ever allowed.",
+      "Griffith cast a powerful containment spell that locked the Chaos Dragon inside a bubble of calm air until it fell asleep.",
+      "Drake and Worm teleported the Chaos Dragon far away from the kingdom to somewhere it could not cause any more trouble.",
     ],
   ],
 };

@@ -911,62 +911,31 @@ const dragonMasters: Series = {
     {
       id: "dm-30",
       number: 30,
-      title: "Chaos of the Vortex Dragon",
-      dragon: "Vortex Dragon",
+      title: "Vortex of the Chaos Dragon",
+      dragon: "Chaos Dragon",
       color: "#880e4f",
       verified: false,
-      listenFor: "Listen for what a vortex does and why it's so dangerous.",
+      listenFor: "Listen for what the Chaos Dragon does that makes everything go wrong.",
       questions: [
         {
-          q: "What disaster did the Vortex Dragon create when it lost control?",
-          a: "It opened spinning vortexes that began pulling people and objects into other places.",
+          q: "What started going wrong when the Chaos Dragon appeared?",
+          a: "The Chaos Dragon's power caused everything around it to become mixed up and out of control — things flew through the air, spells backfired, and nothing worked the way it was supposed to.",
         },
         {
-          q: "Why was the Vortex Dragon so hard to stop?",
-          a: "Every time someone got close, the vortex around it sucked them off course.",
+          q: "Why was the Chaos Dragon so difficult for the Dragon Masters to deal with?",
+          a: "Any plan they made fell apart because the Chaos Dragon's power scrambled magic and made it impossible to predict what would happen next.",
         },
         {
-          q: "How did the Dragon Masters manage to get near the Vortex Dragon?",
-          a: "They used Worm's earth power as an anchor to stay steady while getting close.",
+          q: "What did the Dragon Masters try in order to reach the Chaos Dragon?",
+          a: "They used Worm's steady earth power as an anchor to stay grounded while everything else around them was being thrown into disorder.",
         },
         {
-          q: "What was the Vortex Dragon's special power?",
-          a: "It could open spinning portals that teleported anything sucked in to somewhere completely different.",
+          q: "What was the Chaos Dragon's special power?",
+          a: "It could create a spinning vortex of wild energy that scrambled everything caught inside it, sending people, objects, and spells flying in random directions.",
         },
         {
-          q: "How was the chaos finally stopped?",
-          a: "The Dragon Masters calmed the Vortex Dragon and its portals closed, bringing peace back.",
-        },
-      ],
-    },
-    {
-      id: "dm-31",
-      number: 31,
-      title: "Defending the Swamp Dragon",
-      dragon: "Swamp Dragon",
-      color: "#4e7a47",
-      verified: false,
-      listenFor: "Listen for why the Swamp Dragon needs defending.",
-      questions: [
-        {
-          q: "Why was the Swamp Dragon in danger?",
-          a: "Hunters were after it because they wanted to capture it and sell its rare abilities.",
-        },
-        {
-          q: "What made the swamp a difficult place for the Dragon Masters to work in?",
-          a: "The swamp was murky and maze-like, full of mud, thick plants, and hidden dangers.",
-        },
-        {
-          q: "How did the Swamp Dragon try to protect itself?",
-          a: "It used its camouflage and the swamp's terrain to hide and confuse anyone who came after it.",
-        },
-        {
-          q: "What was the Swamp Dragon's special power?",
-          a: "It could blend perfectly into the swamp and release a thick mist that made it impossible to follow.",
-        },
-        {
-          q: "How did the Dragon Masters defend it in the end?",
-          a: "They drove off the hunters and made sure the Swamp Dragon's home was safe.",
+          q: "How did the Dragon Masters finally bring order back?",
+          a: "They found a way to calm the Chaos Dragon, and once it settled down the vortex disappeared and everything returned to normal.",
         },
       ],
     },
