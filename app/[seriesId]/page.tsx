@@ -7,6 +7,7 @@ const SERIES_EMOJI: Record<string, string> = {
   "magic-tree-house": "🌳",
   "a-to-z-mysteries": "🔍",
   "dragon-masters": "🐉",
+  "percy-jackson": "⚡",
 };
 
 export async function generateStaticParams() {

@@ -7,12 +7,14 @@ import dragonMastersDistractors from "./dragon-masters";
 import magicTreeHouseDistractors from "./magic-tree-house";
 import aToZMysteriesDistractors from "./a-to-z-mysteries";
 import secretExplorersDistractors from "./secret-explorers";
+import percyJacksonDistractors from "./percy-jackson";
 
 const allDistractors: DistractorMap = {
   ...dragonMastersDistractors,
   ...magicTreeHouseDistractors,
   ...aToZMysteriesDistractors,
   ...secretExplorersDistractors,
+  ...percyJacksonDistractors,
 };
 
 export default allDistractors;

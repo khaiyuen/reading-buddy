@@ -15,6 +15,7 @@ const SERIES_EMOJI: Record<string, string> = {
   "magic-tree-house": "🌳",
   "a-to-z-mysteries": "🔍",
   "dragon-masters": "🐉",
+  "percy-jackson": "⚡",
 };
 
 /** Build 3 shuffled choices using authored distractors for this book/question */

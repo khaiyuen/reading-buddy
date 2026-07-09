@@ -3,13 +3,15 @@ import secretExplorers from "./secret-explorers";
 import magicTreeHouse from "./magic-tree-house";
 import aToZMysteries from "./a-to-z-mysteries";
 import dragonMasters from "./dragon-masters";
+import percyJackson from "./percy-jackson";
 
 // Ordered easiest → hardest
 const allSeries: Series[] = [
   dragonMasters,    // easiest — short chapters, simple fantasy
   magicTreeHouse,   // easy — adventure/history, moderate length
   secretExplorers,  // medium — non-fiction concepts mixed in
-  aToZMysteries,    // hardest — mystery reasoning, most complex
+  aToZMysteries,    // hard — mystery reasoning, most complex
+  percyJackson,     // hardest — long chapter books, complex storylines
 ];
 
 export default allSeries;
