@@ -5,8 +5,8 @@ const kingdomOfWrenly: Series = {
   title: "The Kingdom of Wrenly",
   author: "Jordan Quinn",
   description:
-    "Prince Lucas and his best friend Clara go on exciting adventures across the magical kingdom of Wrenly, solving problems and making new friends.",
-  recommendedAge: "6-8",
+    "Prince Lucas and his best friend Clara explore every corner of the magical kingdom of Wrenly — fairies, trolls, dragons, wizards, and mermaids included — solving problems and going on adventures together.",
+  recommendedAge: "5-9",
   themeColor: "#6A1B9A",
   books: [
     {
@@ -14,28 +14,28 @@ const kingdomOfWrenly: Series = {
       number: 1,
       title: "The Lost Stone",
       color: "#6A1B9A",
-      listenFor: "What the missing stone means for the kingdom",
+      listenFor: "Which parts of the kingdom Lucas and Clara visit while searching",
       verified: false,
       questions: [
         {
-          q: "Who are the two main characters in The Kingdom of Wrenly?",
-          a: "Prince Lucas and Clara, his best friend who is the daughter of the royal seamstress.",
+          q: "Who are Prince Lucas and Clara?",
+          a: "Lucas is the eight-year-old prince of Wrenly, and Clara is his best friend, the daughter of the queen's seamstress.",
         },
         {
-          q: "What goes missing at the start of the story?",
-          a: "A precious magical gemstone disappears from the kingdom, and the king asks Lucas to find it.",
+          q: "What goes missing at the start of the story, and who offers a reward for it?",
+          a: "Queen Tasha's precious emerald goes missing, and King Caleb promises a reward to whoever finds it.",
         },
         {
-          q: "Why is the lost stone so important to Wrenly?",
-          a: "The stone has special powers that help keep the kingdom safe and prosperous — without it, bad things could happen.",
+          q: "What lands do Lucas and Clara travel to while searching for the missing stone?",
+          a: "They travel across Wrenly to Primlox (the island of fairies), Burth (the island of trolls), Crestwood (the island of dragons), Hobsgrove (the island of wizards), and Mermaid's Cove.",
         },
         {
-          q: "How do Lucas and Clara work together to solve the mystery?",
-          a: "Lucas uses his knowledge of the kingdom and Clara uses her clever thinking — together they follow clues to track down the stone.",
+          q: "Why are Lucas and Clara so determined to search the whole kingdom?",
+          a: "They want to find the queen's missing emerald and are determined not to give up until they search everywhere it could be.",
         },
         {
-          q: "Where do they finally find the missing stone?",
-          a: "They discover the stone was accidentally taken by a bird attracted to its sparkle and track it to a hidden nest.",
+          q: "What kind of adventure does this first book set up for the rest of the series?",
+          a: "It introduces Lucas and Clara's friendship and shows how they explore the whole magical kingdom of Wrenly together to solve problems.",
         },
       ],
     },
@@ -44,28 +44,28 @@ const kingdomOfWrenly: Series = {
       number: 2,
       title: "The Scarlet Dragon",
       color: "#C62828",
-      listenFor: "Why the dragon is actually not the enemy",
+      listenFor: "What Lucas and Clara need to cure the sick dragon",
       verified: false,
       questions: [
         {
-          q: "What frightens the people of Wrenly at the beginning of the story?",
-          a: "A scarlet dragon is spotted near the kingdom, and the villagers are afraid it will attack them.",
+          q: "What unusual event happens on Crestwood at the start of the story?",
+          a: "An unusual egg is discovered, and when it hatches, a rare scarlet dragon is born.",
         },
         {
-          q: "What does Prince Lucas decide to do about the dragon?",
-          a: "Instead of chasing it away, Lucas wants to find out more about the dragon before judging whether it is dangerous.",
+          q: "Who does King Caleb decide the scarlet dragon belongs to?",
+          a: "King Caleb declares that the special dragon belongs to Prince Lucas, who is overjoyed and promises to keep it safe.",
         },
         {
-          q: "What do Lucas and Clara discover when they find the scarlet dragon?",
-          a: "The dragon is not dangerous at all — it is lost and frightened, and it needs help finding its way home.",
+          q: "What problem happens to the scarlet dragon shortly after Lucas gets it?",
+          a: "The dragon, later named Ruskin, gets very sick.",
         },
         {
-          q: "How does the dragon show Lucas and Clara it means no harm?",
-          a: "It sits very still and lowers its head gently, acting like a friendly animal rather than a monster.",
+          q: "What is needed to cure the sick dragon, and where must Lucas and Clara find it?",
+          a: "They need vixberries, which only grow deep in the forest of Burth, the land of the trolls.",
         },
         {
-          q: "What does this adventure teach Lucas about judging others?",
-          a: "He learns not to be afraid of something just because it looks scary — you should get to know someone before deciding they are bad.",
+          q: "Why is finding the vixberries harder than Lucas and Clara expected?",
+          a: "The forest of Burth is difficult to search, and the whole task of finding the special berries turns out to be much harder than they thought.",
         },
       ],
     },
@@ -74,28 +74,28 @@ const kingdomOfWrenly: Series = {
       number: 3,
       title: "Sea Monster!",
       color: "#0277BD",
-      listenFor: "What the sea creature actually turns out to be",
+      listenFor: "Why the sea monster isn't as scary as everyone thinks",
       verified: false,
       questions: [
         {
-          q: "What do the fishermen report seeing near Wrenly's coast?",
-          a: "A huge creature in the water — they call it a sea monster and are too afraid to go out fishing.",
+          q: "What is frightening sailors and fishermen off the coast of Wrenly?",
+          a: "Rumors of a sea monster living in the unusually rough waters near Wrenly.",
         },
         {
-          q: "Why is the sea monster sighting such a big problem for Wrenly?",
-          a: "The fishermen refuse to go out on the water, which means the kingdom starts to run low on fish and food.",
+          q: "Who is Nanny Louisa, and why does her story matter?",
+          a: "She is the woman who watched over Lucas as a small child, and she once told him about her own encounter with a massive sea creature.",
         },
         {
-          q: "How do Lucas and Clara investigate the sea creature?",
-          a: "They borrow a small boat and sail out to look for themselves, determined to find the truth.",
+          q: "How does King Caleb react to the rumors, compared to Lucas?",
+          a: "King Caleb is skeptical that sea monsters are real, while Lucas is convinced they exist and wants to investigate.",
         },
         {
-          q: "What does the sea creature turn out to really be?",
-          a: "It is a very large but harmless sea animal — not a monster at all — that had wandered close to shore looking for food.",
+          q: "What do Lucas and Clara discover the sea creature is actually trying to do?",
+          a: "They discover the creature isn't trying to cause harm at all — it's actually trying to communicate with them.",
         },
         {
-          q: "How do Lucas and Clara help the creature and solve the problem?",
-          a: "They guide the creature back out to deeper water, and the fishermen are finally able to return to fishing safely.",
+          q: "How does Ruskin the dragon help during this adventure?",
+          a: "Ruskin's antics add excitement to the journey, and he plays a surprisingly heroic role by the end of the story.",
         },
       ],
     },
@@ -104,28 +104,28 @@ const kingdomOfWrenly: Series = {
       number: 4,
       title: "The Witch's Curse",
       color: "#4527A0",
-      listenFor: "How Lucas breaks the witch's spell",
+      listenFor: "Who Lucas thinks is really behind the curse",
       verified: false,
       questions: [
         {
-          q: "What strange thing starts happening in the kingdom at the beginning of the story?",
-          a: "Animals and villagers in one part of Wrenly begin acting strangely — as if they are under a spell.",
+          q: "What strange weather has been troubling the Kingdom of Wrenly?",
+          a: "It has been raining nonstop for six whole days, and the fields are in danger of flooding and ruining the crops.",
         },
         {
-          q: "Who is behind the unusual happenings in Wrenly?",
-          a: "A witch who lives on the edge of the kingdom has cast a curse because she feels she has been treated unfairly.",
+          q: "Who does Prince Lucas suspect has cursed the kingdom, and why?",
+          a: "He suspects Grom the wizard, believing Grom used the eggshells of Ruskin, Lucas's scarlet dragon, to cast the curse.",
         },
         {
-          q: "What does Lucas do when he learns the witch placed the curse?",
-          a: "He goes to speak with her himself, wanting to understand why she is upset rather than just demanding she stop.",
+          q: "Who is the Witch of Bogburp, and what deal does she offer?",
+          a: "She is a witch who offers to stop the rain in exchange for gold from the kingdom.",
         },
         {
-          q: "Why had the witch placed her curse on the kingdom?",
-          a: "She felt the people of Wrenly had ignored and left her out — she was lonely and wanted to be included.",
+          q: "Why do Lucas and Clara go to visit the witch's treehouse?",
+          a: "They want to prove that Grom is really the one guilty of casting the curse.",
         },
         {
-          q: "How does Lucas break the curse?",
-          a: "He apologises and invites the witch to be part of the community, and in return she lifts the spell willingly.",
+          q: "What does the witch tell Lucas and Clara they need to reverse the spell?",
+          a: "She tells them to get the dragon eggshells from Grom, which are needed to help reverse the curse.",
         },
       ],
     },
@@ -134,28 +134,28 @@ const kingdomOfWrenly: Series = {
       number: 5,
       title: "Adventures in Flatfrost",
       color: "#0277BD",
-      listenFor: "What Lucas and Clara find in the frozen land",
+      listenFor: "Why Lucas and Ruskin get sent to Flatfrost as punishment",
       verified: false,
       questions: [
         {
-          q: "Where is Flatfrost, and what is it like?",
-          a: "Flatfrost is a cold, icy region of the Kingdom of Wrenly, covered in snow and frost all year round.",
+          q: "What accident happens during a game of hide-and-seek at the castle?",
+          a: "Prince Lucas and Ruskin accidentally melt all the ice in the castle, getting them both in trouble.",
         },
         {
-          q: "Why do Lucas and Clara travel to Flatfrost?",
-          a: "Strange reports have come from Flatfrost about unusual happenings, and the king sends Lucas to find out what is going on.",
+          q: "Why does the king send Lucas and Ruskin to Flatfrost?",
+          a: "As punishment, they are sent to fetch more ice from the giants who live in the icy land of Flatfrost.",
         },
         {
-          q: "What challenge does the cold weather create for Lucas and Clara?",
-          a: "The freezing temperatures slow them down and make it hard to think clearly — they have to keep moving to stay warm.",
+          q: "What do Lucas and Clara have to help Ruskin learn while they are in Flatfrost?",
+          a: "They have to help Ruskin learn to control his fire so he doesn't cause more accidents.",
         },
         {
-          q: "What friendly creature do Lucas and Clara meet in Flatfrost?",
-          a: "They meet a creature who lives in the cold and knows Flatfrost well — this new friend helps guide them through the icy land.",
+          q: "What lesson do Lucas and Clara learn from the giants of Flatfrost?",
+          a: "They learn to respect the hard work that the giants do to harvest ice in the snowy mountains.",
         },
         {
-          q: "What do they discover is causing the strange happenings in Flatfrost?",
-          a: "Something has disturbed the natural balance of the frozen land — and Lucas and Clara work together to set things right.",
+          q: "What will happen if Ruskin doesn't show better control of his fire?",
+          a: "If Ruskin doesn't show better training and control, he could be sent away.",
         },
       ],
     },
@@ -164,28 +164,28 @@ const kingdomOfWrenly: Series = {
       number: 6,
       title: "Beneath the Stone Forest",
       color: "#4E342E",
-      listenFor: "What is hiding underground beneath the Stone Forest",
+      listenFor: "What Princess Bella learns by the end of the story",
       verified: false,
       questions: [
         {
-          q: "What is the Stone Forest?",
-          a: "A mysterious part of Wrenly where all the trees have turned to stone — it is ancient and said to be magical.",
+          q: "What has Clara always wanted to do, and who does she invite along?",
+          a: "Clara has always wanted to explore and map the Stone Forest, and she invites Prince Lucas to come with her.",
         },
         {
-          q: "Why do Lucas and Clara go into the Stone Forest?",
-          a: "They hear that someone has gone missing in the forest, and they set out to find them and bring them home safely.",
+          q: "How was the Stone Forest formed?",
+          a: "It is a grove of stone pillars and arches formed by gnomes tunneling underground for gems.",
         },
         {
-          q: "What do they discover underneath the Stone Forest?",
-          a: "There are underground tunnels and caverns hidden beneath the stone roots, filled with creatures that live below the surface.",
+          q: "Who is Princess Bella, and how does she behave at first?",
+          a: "She is Lucas's visiting cousin, and at first she acts like a spoiled royal who doesn't want to get her hands dirty.",
         },
         {
-          q: "What makes navigating the underground tunnels difficult?",
-          a: "It is very dark and the tunnels twist in every direction, making it easy to get lost without a guide.",
+          q: "What emergency happens to Princess Bella's puppy?",
+          a: "Her puppy gets lost in the tunnels running beneath the Stone Forest.",
         },
         {
-          q: "Who or what was living beneath the Stone Forest all along?",
-          a: "A whole community of small underground creatures who had been living there peacefully without the kingdom knowing.",
+          q: "What important lesson does Princess Bella learn by the end of the book?",
+          a: "She realizes that the ordinary subjects of a kingdom are just as important as its rulers, no matter their social status.",
         },
       ],
     },
@@ -194,58 +194,418 @@ const kingdomOfWrenly: Series = {
       number: 7,
       title: "Let the Games Begin!",
       color: "#558B2F",
-      listenFor: "What goes wrong during the kingdom games",
+      listenFor: "What Clara is determined to prove during the tournament",
       verified: false,
       questions: [
         {
-          q: "What is the big event happening in Wrenly in this book?",
-          a: "The Kingdom Games — a festival where teams from different parts of Wrenly compete in fun challenges and contests.",
+          q: "What big event brings visitors from all over Wrenly together in this book?",
+          a: "The kingdom's Grand Tournament, where dragons fly, trolls juggle, and knights duel in front of everyone.",
         },
         {
-          q: "What role does Prince Lucas play in the Kingdom Games?",
-          a: "He competes as part of the royal team, but also helps to organise and make sure the games are fair for everyone.",
+          q: "Who is Sir Hugh, and who is his squire?",
+          a: "Sir Hugh is the knight of Thornwood and one of Prince Lucas's idols, and Gilbert is his squire.",
         },
         {
-          q: "What problem threatens to ruin the Kingdom Games?",
-          a: "Someone is cheating — breaking the rules to try to make their team win unfairly, which upsets everyone.",
+          q: "What does the squire Gilbert say that upsets Clara?",
+          a: "He declares that girls can't be knights, which makes Clara determined to prove him wrong.",
         },
         {
-          q: "How do Lucas and Clara figure out who is cheating?",
-          a: "They watch carefully and notice something that doesn't add up, then follow the clues until they catch the cheater.",
+          q: "What is Clara determined to do at the tournament?",
+          a: "She is determined to compete and prove that she can do anything she sets her mind to, no matter what anyone says.",
         },
         {
-          q: "What is the most important lesson from the Kingdom Games?",
-          a: "That winning only feels good if you earn it fairly — cheating takes all the fun and pride out of competing.",
+          q: "What is the bigger message behind Clara's storyline in this book?",
+          a: "It challenges the idea that girls can't be brave knights, showing that skill and determination matter more than old-fashioned expectations.",
         },
       ],
     },
     {
       id: "kw-08",
       number: 8,
-      title: "The Secret World",
+      title: "The Secret World of Mermaids",
       color: "#00695C",
-      listenFor: "What the secret world hidden under Wrenly turns out to be",
+      listenFor: "Why King Caleb tells Lucas to leave the mermaids alone",
       verified: false,
       questions: [
         {
-          q: "How do Lucas and Clara discover the Secret World?",
-          a: "They find a hidden entrance — a trapdoor buried under moss — that leads down into a world no one in Wrenly knew existed.",
+          q: "What happens to Lucas while he and Clara are floating on a raft?",
+          a: "A wave hits the raft and throws Lucas into the sea.",
         },
         {
-          q: "What does the Secret World look like when they first enter it?",
-          a: "It is a beautiful underground land lit by glowing plants and crystals, completely different from the world above.",
+          q: "What amazing thing does Lucas glimpse underwater before being pulled back to the surface?",
+          a: "He catches a glimpse of a hidden coral kingdom filled with castles, towers, and mermaids.",
         },
         {
-          q: "Who lives in the Secret World?",
-          a: "A group of magical creatures who have lived underground for generations, hidden away from the kingdom above them.",
+          q: "What does King Caleb tell Lucas about the mermaids?",
+          a: "He tells Lucas that the mermaids have always treasured their privacy and that everyone should respect that.",
         },
         {
-          q: "Why have the creatures of the Secret World stayed hidden for so long?",
-          a: "They were afraid that the people above ground would not accept them or would try to take over their home.",
+          q: "How does Lucas respond to his father's warning?",
+          a: "Despite his father's advice, Lucas is determined to find out more about the mermaids' secret underwater world.",
         },
         {
-          q: "How does Lucas prove to the creatures that Wrenly can be trusted?",
-          a: "He promises on behalf of the kingdom to respect their home and keep it safe — and the creatures believe him because of how kindly he treats them.",
+          q: "What is the main tension driving this story?",
+          a: "Lucas's curiosity about the mermaid kingdom pulls against his father's request that he respect their privacy.",
+        },
+      ],
+    },
+    {
+      id: "kw-09",
+      number: 9,
+      title: "The Bard and the Beast",
+      color: "#8D6E63",
+      listenFor: "How music ends up saving the day",
+      verified: false,
+      questions: [
+        {
+          q: "What does Prince Lucas not want to do at the start of the book?",
+          a: "He does not want to learn to play the lute, preferring to be outside exploring with Clara instead.",
+        },
+        {
+          q: "Who visits the castle, and what does he try to convince Lucas of?",
+          a: "A traveling bard named William, or Will for short, visits and tries to convince Lucas that there is real magic in music.",
+        },
+        {
+          q: "What story does the bard tell about his own past?",
+          a: "He tells of King Ashwin and his aide Sir Gavin, and how a monstrous snake attacking their kingdom was pacified by William's music.",
+        },
+        {
+          q: "What happens when Lucas and the bard go for a walk in the hills?",
+          a: "They stumble upon a real, ferocious monster, and Lucas learns firsthand that the bard's stories about music's power might be true.",
+        },
+        {
+          q: "What does Lucas decide about his lute lessons by the end of the book?",
+          a: "He resolves to keep up with his music lessons after seeing for himself what music can do.",
+        },
+      ],
+    },
+    {
+      id: "kw-10",
+      number: 10,
+      title: "The Pegasus Quest",
+      color: "#5D4037",
+      listenFor: "What Lucas and Clara use to lure the lost pegasus",
+      verified: false,
+      questions: [
+        {
+          q: "What does Lucas wish for when he sees a shooting star?",
+          a: "He wishes for an epic adventure, not realizing his wish is about to come true.",
+        },
+        {
+          q: "What mystery do Lucas and Clara start investigating?",
+          a: "The trolls' berries have mysteriously gone missing, and no one knows what happened to them.",
+        },
+        {
+          q: "How do Lucas and Clara figure out what might be responsible for the missing berries?",
+          a: "They go to the royal library to research, and Lucas finds information showing that pegasi love those particular berries.",
+        },
+        {
+          q: "How do Lucas and Clara use this information to find the pegasus?",
+          a: "They bring some of the berries to Mermaid's Cove, hide behind a rock, and wait until they spot the pegasus.",
+        },
+        {
+          q: "What must Lucas and Clara help the pegasus do once they find it?",
+          a: "They must help the lost young pegasus find its way home to its floating castle high above the clouds.",
+        },
+      ],
+    },
+    {
+      id: "kw-11",
+      number: 11,
+      title: "The False Fairy",
+      color: "#AD1457",
+      listenFor: "Whether Falsk can really be trusted",
+      verified: false,
+      questions: [
+        {
+          q: "What mysterious event happens to the fairies on the island of Primlox?",
+          a: "A mysterious spell makes almost all the fairies disappear, leaving only one fairy behind.",
+        },
+        {
+          q: "Who is Falsk, and what is she known for?",
+          a: "Falsk is the one remaining fairy, and she is known for telling wild, exaggerated stories.",
+        },
+        {
+          q: "What must Lucas and Clara do with Falsk's help?",
+          a: "They must work with Falsk to find all the missing fairies and save the fairyland.",
+        },
+        {
+          q: "Why are Lucas and Clara unsure whether to trust Falsk?",
+          a: "Because Falsk is famous for telling tall tales, they worry she might be leading them into a trap rather than helping them.",
+        },
+        {
+          q: "What lesson does the story teach about honesty?",
+          a: "It shows that telling too many fibs makes it hard for people to trust you, but it also shows the value of giving someone a second chance.",
+        },
+      ],
+    },
+    {
+      id: "kw-12",
+      number: 12,
+      title: "The Sorcerer's Shadow",
+      color: "#37474F",
+      listenFor: "What the sorcerer's shadow really represents",
+      verified: false,
+      questions: [
+        {
+          q: "What is happening in the forest realm of Trellis at the start of the book?",
+          a: "Birds have left their nests and bears have abandoned their dens because a mysterious magic is disturbing the natural order of the forest.",
+        },
+        {
+          q: "Who do Lucas and Clara team up with to investigate the forest?",
+          a: "They team up with a band of knights to face whatever is causing the trouble in Trellis.",
+        },
+        {
+          q: "What strange enemy are Lucas and Clara up against in this book?",
+          a: "A dreaded sorcerer's shadow — an enemy that is difficult to fight because it isn't a normal solid creature.",
+        },
+        {
+          q: "What does the sorcerer's shadow actually turn out to represent?",
+          a: "It represents the destructive, angry feelings that come from being bullied and wanting revenge.",
+        },
+        {
+          q: "How is the sorcerer's shadow finally defeated?",
+          a: "By learning to tame his anger and forgive others, the person behind the shadow causes it to disappear for good.",
+        },
+      ],
+    },
+    {
+      id: "kw-13",
+      number: 13,
+      title: "The Thirteenth Knight",
+      color: "#455A64",
+      listenFor: "What qualities the Spires are looking for in their new member",
+      verified: false,
+      questions: [
+        {
+          q: "Who are the Spires, and how many knights are currently in their group?",
+          a: "The Spires are an elite band of knights, and they currently have only twelve members.",
+        },
+        {
+          q: "Why do the Spires open a special competition?",
+          a: "They are searching for a new hero to join their ranks and fulfill a mysterious old prophecy about a thirteenth knight.",
+        },
+        {
+          q: "What qualities must the winner of the competition show?",
+          a: "The winner must show bravery, valor, wisdom, and heart.",
+        },
+        {
+          q: "What does Clara decide to do in this book?",
+          a: "She decides to participate in the special contest, which involves working with a new dragon.",
+        },
+        {
+          q: "Why is this competition such a big deal for the Kingdom of Wrenly?",
+          a: "Because it involves an ancient legend and prophecy about the Thirteenth Knight, making it far more than an ordinary contest.",
+        },
+      ],
+    },
+    {
+      id: "kw-14",
+      number: 14,
+      title: "A Ghost in the Castle",
+      color: "#263238",
+      listenFor: "Who the ghost turns out to be friends with",
+      verified: false,
+      questions: [
+        {
+          q: "What strange happenings start occurring inside the castle?",
+          a: "Curtains sway next to closed windows, temperatures drop for no reason, and strange lights glow in empty rooms.",
+        },
+        {
+          q: "What do Lucas and Clara become convinced is haunting the castle?",
+          a: "They become convinced there is a ghost haunting the halls of Wrenly Castle.",
+        },
+        {
+          q: "What must Lucas and Clara figure out before it's too late?",
+          a: "They must find the ghost before the ghost finds them.",
+        },
+        {
+          q: "Who turns out to be secretly connected to the ghost?",
+          a: "The ghost is friends with André, a wizard, and the secret was also known by a fairy named Flask.",
+        },
+        {
+          q: "What do Lucas and Clara have to uncover to solve the mystery?",
+          a: "They have to uncover secrets hidden within the castle itself and team up with André the wizard to understand what's really going on.",
+        },
+      ],
+    },
+    {
+      id: "kw-15",
+      number: 15,
+      title: "Den of Wolves",
+      color: "#3E2723",
+      listenFor: "What Lucas and Clara discover about the dire wolves",
+      verified: false,
+      questions: [
+        {
+          q: "What do Lucas and Clara find alone in the woods at the start of the story?",
+          a: "They find a lost dire wolf pup, alone and separated from its pack.",
+        },
+        {
+          q: "Why are dire wolves considered so rare and mysterious in the Kingdom of Wrenly?",
+          a: "They travel under the cover of darkness, sleep during the day, and hunt in complete silence, so the only proof of them is paw prints and howls.",
+        },
+        {
+          q: "Who accompanies Lucas and Clara to the forest of Burth to find Goblin Falls?",
+          a: "Grom the wizard accompanies them on their journey to find the wolves' hidden den.",
+        },
+        {
+          q: "What surprising thing do Lucas and Clara learn about the dire wolves?",
+          a: "They discover that the wolves can actually communicate, and are not the dangerous threats everyone assumed.",
+        },
+        {
+          q: "What is the real danger facing the wolves in this story?",
+          a: "Hunters — Lucas and Clara realize they need to protect the wolf family from people who want to hunt them.",
+        },
+      ],
+    },
+    {
+      id: "kw-16",
+      number: 16,
+      title: "The Dream Portal",
+      color: "#4A148C",
+      listenFor: "What the Dream Portal is actually able to do",
+      verified: false,
+      questions: [
+        {
+          q: "What ancient, mysterious place does no one in Wrenly dare to explore?",
+          a: "The Dream Portal — a strange, ancient circle of stones hidden beyond the swamps of Bogburb, built by wizards long ago.",
+        },
+        {
+          q: "What happens to Ruskin the dragon in this book?",
+          a: "Ruskin falls under the Dream Portal's powerful and dangerous spell.",
+        },
+        {
+          q: "What must Lucas and Clara risk in order to save Ruskin?",
+          a: "They must risk exploring the legendary, dangerous Dream Portal itself to break the spell.",
+        },
+        {
+          q: "What is unusual about the Dream Portal's true nature?",
+          a: "It is somehow sentient — alive and aware — and it is able to possess others and use dreams to control reality.",
+        },
+        {
+          q: "What qualities do Lucas and Clara need to save their friend?",
+          a: "They need courage and clever thinking to fight back against a threat that works through dreams and the mind.",
+        },
+      ],
+    },
+    {
+      id: "kw-17",
+      number: 17,
+      title: "Goblin Magic",
+      color: "#1B5E20",
+      listenFor: "Why the goblins want revenge on the wizards",
+      verified: false,
+      questions: [
+        {
+          q: "What happened to the goblins long ago in the Goblin Battles?",
+          a: "They were defeated by the wizards and stripped of their magical powers as a result.",
+        },
+        {
+          q: "What have the goblins done to the wizards of Hobsgrove in this book?",
+          a: "A group of goblins have kidnapped the wizards, seeking revenge for losing their powers long ago.",
+        },
+        {
+          q: "Who do Lucas and Clara meet who is different from the other goblins?",
+          a: "They meet a young goblin who wants to do good and help save the wizards, unlike the vengeful goblins.",
+        },
+        {
+          q: "What difficult decision do Lucas and Clara have to make?",
+          a: "They must decide whether they can trust the young goblin, or whether history is about to repeat itself.",
+        },
+        {
+          q: "What is the central lesson of this story?",
+          a: "That you shouldn't judge every individual the same way just because of what a group they belong to has done in the past.",
+        },
+      ],
+    },
+    {
+      id: "kw-18",
+      number: 18,
+      title: "Stroke of Midnight",
+      color: "#0D47A1",
+      listenFor: "What Lucas and Clara must fix before the clock strikes midnight",
+      verified: false,
+      questions: [
+        {
+          q: "Who do Lucas and Clara meet who causes a magical accident?",
+          a: "They meet a witch-in-training whose spell goes wrong.",
+        },
+        {
+          q: "What happens to Lucas and Clara because of the accidental spell?",
+          a: "The spell makes the two friends switch bodies with each other.",
+        },
+        {
+          q: "What deadline do Lucas and Clara have to reverse the spell?",
+          a: "They must find a way to switch back before the stroke of midnight.",
+        },
+        {
+          q: "What will happen if Lucas and Clara don't reverse the spell in time?",
+          a: "If they don't undo it before midnight, their lives could change forever and stay swapped permanently.",
+        },
+        {
+          q: "What kind of story is this, based on how the two friends must work together?",
+          a: "It's a race-against-the-clock adventure where Lucas and Clara must cooperate closely, since neither can fix the problem alone.",
+        },
+      ],
+    },
+    {
+      id: "kw-19",
+      number: 19,
+      title: "Keeper of the Gems",
+      color: "#004D40",
+      listenFor: "Why the gnomes' gems have lost their shine",
+      verified: false,
+      questions: [
+        {
+          q: "Who lives in the Stone Forest, and what problem are they facing?",
+          a: "Gnomes live in the Stone Forest, and all the gems there have suddenly lost their shine and luster.",
+        },
+        {
+          q: "Who do Lucas and Clara team up with to solve the problem?",
+          a: "They team up with the gnomes of the Stone Forest to figure out what has happened to the gems.",
+        },
+        {
+          q: "Why is the loss of shine such a big problem for the gnomes?",
+          a: "The gems are an important part of the gnomes' lives and home, so losing their sparkle is a serious concern for the whole community.",
+        },
+        {
+          q: "What must Lucas and Clara do to help the gnomes?",
+          a: "They must find a way to give the jewels their luster back.",
+        },
+        {
+          q: "What does this adventure show about Lucas and Clara's role in the kingdom?",
+          a: "It shows how they help all kinds of different communities across Wrenly, not just the ones closest to the castle.",
+        },
+      ],
+    },
+    {
+      id: "kw-20",
+      number: 20,
+      title: "The Crimson Spy",
+      color: "#B71C1C",
+      listenFor: "Why Lucas and Clara aren't sure who to trust",
+      verified: false,
+      questions: [
+        {
+          q: "What danger washes ashore in the port of Silvertown?",
+          a: "Rumors of pirates spread after a royal ship goes missing near the port.",
+        },
+        {
+          q: "What rare creature are Lucas and Clara asked to take care of?",
+          a: "They are asked to care for a rare and magical phoenix, a shimmering fire bird.",
+        },
+        {
+          q: "How do Lucas and Clara feel about the phoenix at first?",
+          a: "At first they think nothing of it and don't suspect anything unusual about the shimmering bird.",
+        },
+        {
+          q: "What do Lucas and Clara eventually learn about magical creatures like the phoenix?",
+          a: "They learn that not all magical creatures can be trusted, no matter how beautiful they seem.",
+        },
+        {
+          q: "What two mysteries are Lucas and Clara trying to untangle in this book?",
+          a: "They are trying to figure out the truth behind both the pirate rumors and the true nature of the mysterious phoenix.",
         },
       ],
     },
