@@ -1,5 +1,13 @@
 export type Question = { q: string; a: string };
 
+export type Chapter = {
+  id: string;
+  number: number;
+  title: string;
+  listenFor: string;
+  questions: Question[];
+};
+
 export type Book = {
   id: string;
   number: number;
@@ -9,6 +17,7 @@ export type Book = {
   listenFor: string;
   verified: boolean;
   questions: Question[];
+  chapters?: Chapter[];
 };
 
 export type Series = {

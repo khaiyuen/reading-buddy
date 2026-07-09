@@ -40,7 +40,7 @@ function buildChoices(book: Book, qIndex: number): { text: string; correct: bool
     .sort(() => Math.random() - 0.5);
 }
 
-export default function QuizClient({ series, book }: { series: Series; book: Book }) {
+export default function QuizClient({ series, book, backHref }: { series: Series; book: Book; backHref?: string }) {
   const [mode, setMode] = useState<Mode>("choice");
   const [phase, setPhase] = useState<Phase>("intro");
   const [qIndex, setQIndex] = useState(0);
@@ -143,7 +143,7 @@ export default function QuizClient({ series, book }: { series: Series; book: Boo
       {/* ── Header ── */}
       <div className="flex items-center gap-3 mb-4">
         <Link
-          href={`/${series.id}`}
+          href={backHref ?? `/${series.id}`}
           className="text-2xl py-2 px-3 rounded-2xl font-bold"
           style={{ color: book.color }}
           onClick={() => stop()}
@@ -358,11 +358,11 @@ export default function QuizClient({ series, book }: { series: Series; book: Boo
               style={{ backgroundColor: book.color }}
             >Play again</button>
             <Link
-              href={`/${series.id}`}
+              href={backHref ?? `/${series.id}`}
               className="block w-full text-xl font-bold text-center rounded-3xl py-5 shadow-lg active:scale-95"
               style={{ border: `3px solid ${book.color}`, color: book.color }}
               onClick={() => stop()}
-            >Pick another book</Link>
+            >{backHref ? "Back to chapters" : "Pick another book"}</Link>
           </div>
         </div>
       )}
