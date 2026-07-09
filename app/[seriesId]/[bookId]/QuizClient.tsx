@@ -11,6 +11,8 @@ type Phase = "intro" | "question" | "revealed" | "finish";
 type Mode = "choice" | "open";
 
 const SERIES_EMOJI: Record<string, string> = {
+  "last-firehawk": "🔥",
+  "kingdom-of-wrenly": "👑",
   "secret-explorers": "🔭",
   "magic-tree-house": "🌳",
   "a-to-z-mysteries": "🔍",

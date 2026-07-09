@@ -2,6 +2,8 @@ import Link from "next/link";
 import allSeries from "@/content";
 
 const SERIES_EMOJI: Record<string, string> = {
+  "last-firehawk": "🔥",
+  "kingdom-of-wrenly": "👑",
   "secret-explorers": "🔭",
   "magic-tree-house": "🌳",
   "a-to-z-mysteries": "🔍",

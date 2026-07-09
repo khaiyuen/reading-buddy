@@ -4,11 +4,15 @@ import magicTreeHouse from "./magic-tree-house";
 import aToZMysteries from "./a-to-z-mysteries";
 import dragonMasters from "./dragon-masters";
 import percyJackson from "./percy-jackson";
+import lastFirehawk from "./last-firehawk";
+import kingdomOfWrenly from "./kingdom-of-wrenly";
 
 // Ordered easiest → hardest
 const allSeries: Series[] = [
-  dragonMasters,    // easiest — short chapters, simple fantasy
-  magicTreeHouse,   // easy — adventure/history, moderate length
+  lastFirehawk,     // easiest — very simple text, ages 6-8
+  kingdomOfWrenly,  // easy — simple fantasy, ages 6-8
+  dragonMasters,    // easy — short chapters, simple fantasy
+  magicTreeHouse,   // easy-medium — adventure/history, moderate length
   secretExplorers,  // medium — non-fiction concepts mixed in
   aToZMysteries,    // hard — mystery reasoning, most complex
   percyJackson,     // hardest — long chapter books, complex storylines

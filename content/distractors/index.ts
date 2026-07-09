@@ -8,6 +8,8 @@ import magicTreeHouseDistractors from "./magic-tree-house";
 import aToZMysteriesDistractors from "./a-to-z-mysteries";
 import secretExplorersDistractors from "./secret-explorers";
 import percyJacksonDistractors from "./percy-jackson";
+import lastFirehawkDistractors from "./last-firehawk";
+import kingdomOfWrenlyDistractors from "./kingdom-of-wrenly";
 
 const allDistractors: DistractorMap = {
   ...dragonMastersDistractors,
@@ -15,6 +17,8 @@ const allDistractors: DistractorMap = {
   ...aToZMysteriesDistractors,
   ...secretExplorersDistractors,
   ...percyJacksonDistractors,
+  ...lastFirehawkDistractors,
+  ...kingdomOfWrenlyDistractors,
 };
 
 export default allDistractors;
