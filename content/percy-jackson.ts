@@ -20,7 +20,7 @@ const percyJackson: Series = {
         {
           id: "ch-01",
           number: 1,
-          title: "The Museum Attack",
+          title: "I Accidentally Vaporize My Pre-Algebra Teacher",
           listenFor: "What strange thing happens to Percy's math teacher on the museum trip?",
           questions: [
             { q: "Where does Percy's class go on their field trip?", a: "Percy's class goes on a field trip to the Metropolitan Museum of Art in New York City. They are supposed to be learning about Greek and Roman art, though Percy can barely focus." },
@@ -33,7 +33,7 @@ const percyJackson: Series = {
         {
           id: "ch-02",
           number: 2,
-          title: "The Bus Ride Warning",
+          title: "Three Old Ladies Knit the Socks of Death",
           listenFor: "Who are the three strange old women Percy sees, and why does Grover look so scared?",
           questions: [
             { q: "What does Percy overhear Grover and Mr. Brunner talking about?", a: "Percy secretly overhears Grover and Mr. Brunner having a tense conversation about a \"Kindly One,\" a deadline, and something called \"the Mist.\" He doesn't understand what any of it means, but it's clear they are worried about keeping him safe." },
@@ -46,7 +46,7 @@ const percyJackson: Series = {
         {
           id: "ch-03",
           number: 3,
-          title: "Trouble at the Beach Cabin",
+          title: "Grover Unexpectedly Loses His Pants",
           listenFor: "What does Percy notice about Grover's legs when he bursts in during the storm?",
           questions: [
             { q: "Where does Percy's mom take him for a surprise trip?", a: "Percy's mom, Sally, surprises him with a trip to a small beach cabin they love in Montauk, just the two of them. It's one of the only times all year that Percy gets to see her happy and relaxed, away from her husband Gabe." },
@@ -59,7 +59,7 @@ const percyJackson: Series = {
         {
           id: "ch-04",
           number: 4,
-          title: "The Minotaur in the Storm",
+          title: "My Mother Teaches Me Bullfighting",
           listenFor: "What happens to Percy's mom when the monster finally catches up to them?",
           questions: [
             { q: "What does Grover finally explain to Percy in the car?", a: "Grover finally explains that he is a satyr, half-goat and half-human, and that monsters from Greek myths are real and dangerous. Percy is stunned, but there's no time to process it before things get even scarier." },
@@ -72,7 +72,7 @@ const percyJackson: Series = {
         {
           id: "ch-05",
           number: 5,
-          title: "Waking Up at Camp",
+          title: "I Play Pinochle with a Horse",
           listenFor: "Who is Mr. Brunner really, once he stands up from his wheelchair?",
           questions: [
             { q: "Where does Percy wake up at the start of this chapter?", a: "Percy wakes up feeling weak and dizzy in a deck chair at a beautiful place with Greek-style buildings, strawberry fields, and even winged horses grazing nearby, though he doesn't know its name yet. It's completely unlike anywhere he's ever been." },
@@ -85,7 +85,7 @@ const percyJackson: Series = {
         {
           id: "ch-06",
           number: 6,
-          title: "Camp Half-Blood Tour",
+          title: "I Become Supreme Lord of the Bathroom",
           listenFor: "What happens to Percy in the bathroom that hints at a hidden power?",
           questions: [
             { q: "What does Chiron show Percy during the camp tour?", a: "Chiron gives Percy a full tour of Camp Half-Blood, showing him the strawberry fields, training arenas, and the twelve cabins arranged in a U-shape, one for each Olympian god. He avoids answering questions about a mysterious attic, though." },
@@ -98,7 +98,7 @@ const percyJackson: Series = {
         {
           id: "ch-07",
           number: 7,
-          title: "Camp Secrets and Suppers",
+          title: "My Dinner Goes Up in Smoke",
           listenFor: "What does Annabeth say went missing from Mount Olympus?",
           questions: [
             { q: "What does Annabeth tell Percy about her parents?", a: "Annabeth tells Percy that her mother is Athena, the goddess of wisdom, while her father is an ordinary history professor. She wears a necklace with a bead for every summer she's survived at camp, showing how long she's been there." },
@@ -111,7 +111,7 @@ const percyJackson: Series = {
         {
           id: "ch-08",
           number: 8,
-          title: "Capture the Flag and a Big Surprise",
+          title: "We Capture a Flag",
           listenFor: "What glowing symbol appears over Percy's head during the game?",
           questions: [
             { q: "What story does Grover tell Percy about the \"Big Three\" gods?", a: "Grover explains that Zeus, Poseidon, and Hades once swore an oath not to have any more demigod children, because their kids were too powerful and dangerous. He also tells Percy the sad story of Thalia, a daughter of Zeus." },
@@ -124,7 +124,7 @@ const percyJackson: Series = {
         {
           id: "ch-09",
           number: 9,
-          title: "The Oracle's Prophecy",
+          title: "I Am Offered a Quest",
           listenFor: "What exact words does the mysterious Oracle use to describe Percy's future?",
           questions: [
             { q: "Why is Percy moved to a cabin all by himself?", a: "Since Percy has now been claimed as the son of Poseidon, Chiron moves him into Cabin Three, which is just for Poseidon's children — and since Percy has no siblings there, he has the whole cabin to himself. It feels lonely compared to the crowded Hermes cabin." },
@@ -137,7 +137,7 @@ const percyJackson: Series = {
         {
           id: "ch-10",
           number: 10,
-          title: "Attacked on the Greyhound",
+          title: "I Ruin a Perfectly Good Bus",
           listenFor: "Who else gets on the bus that Percy really did not want to see again?",
           questions: [
             { q: "Who does Percy choose to bring along on his quest?", a: "Grover automatically comes along since he's Percy's protector, and Annabeth volunteers to join as well, wanting to prove herself on a real quest. Together the three of them set off to find the stolen bolt." },
@@ -150,7 +150,7 @@ const percyJackson: Series = {
         {
           id: "ch-11",
           number: 11,
-          title: "Aunty Em's Statue Garden",
+          title: "We Visit the Garden Gnome Emporium",
           listenFor: "What is really hiding behind Aunty Em's veil?",
           questions: [
             { q: "What strange thing do the friends notice about the garden gnomes at Aunty Em's shop?", a: "The \"garden gnome\" statues scattered around the shop are actually real people and creatures that have been turned to stone, which immediately makes Annabeth suspicious about who really runs the place. It's a chilling clue that something is very wrong." },
@@ -163,7 +163,7 @@ const percyJackson: Series = {
         {
           id: "ch-12",
           number: 12,
-          title: "Gladiola the Talking Poodle",
+          title: "We Get Advice from a Poodle",
           listenFor: "How does a lost poodle end up helping the group get where they're going?",
           questions: [
             { q: "What special ability does Grover use when they find a lost poodle?", a: "Since Grover is a satyr, he's able to have a full conversation with the lost pink poodle named Gladiola, something an ordinary person couldn't do. It turns out to be surprisingly useful for the group." },
@@ -176,7 +176,7 @@ const percyJackson: Series = {
         {
           id: "ch-13",
           number: 13,
-          title: "The Gateway Arch Showdown",
+          title: "I Plunge to My Death",
           listenFor: "What does the monster dare Percy to do at the very top of the Arch?",
           questions: [
             { q: "What landmark does Annabeth insist on visiting in St. Louis?", a: "Annabeth insists on visiting the famous Gateway Arch, wanting to see the view from its observation deck even though they're supposed to be racing against the clock. Percy goes along with her excitement." },
@@ -189,7 +189,7 @@ const percyJackson: Series = {
         {
           id: "ch-14",
           number: 14,
-          title: "Rescued by the River",
+          title: "I Become a Known Fugitive",
           listenFor: "What surprising new power does Percy discover once he's underwater?",
           questions: [
             { q: "What happens to Percy right after he jumps into the Mississippi River?", a: "Instead of getting hurt, Percy discovers that the river gently catches him, his wound heals almost instantly, and he realizes he can breathe underwater without any trouble at all. It's an amazing and comforting discovery in the middle of a scary situation." },
@@ -202,7 +202,7 @@ const percyJackson: Series = {
         {
           id: "ch-15",
           number: 15,
-          title: "A Stranger Named Ares",
+          title: "A God Buys Us Cheeseburgers",
           listenFor: "What favor does the mysterious biker ask Percy to do at a run-down water park?",
           questions: [
             { q: "How does Grover send a message back to Chiron at camp?", a: "Grover uses a hose to create a fine mist and tosses in a golden drachma, which lets him send a magical Iris-message to Chiron back at camp. It's how demigods can communicate over long distances." },
@@ -215,7 +215,7 @@ const percyJackson: Series = {
         {
           id: "ch-16",
           number: 16,
-          title: "The Lotus Casino Trap",
+          title: "We Take a Zebra to Vegas",
           listenFor: "How much time do the friends actually lose while having fun inside the casino?",
           questions: [
             { q: "What does Ares give Percy after the trap at Waterland?", a: "Ares gives Percy a blue backpack containing clothes, cash, golden drachmas, and even a box of Double Stuf Oreos, along with a cryptic hint that Percy's mother is being held somewhere, not gone forever. It's a strange mix of kindness and mystery from the war god." },
@@ -228,7 +228,7 @@ const percyJackson: Series = {
         {
           id: "ch-17",
           number: 17,
-          title: "Crusty's Waterbed Trap",
+          title: "We Shop for Water Beds",
           listenFor: "What is the terrifying secret behind Crusty's stretchy water beds?",
           questions: [
             { q: "Who runs the waterbed store the friends stumble into?", a: "The store is run by a strange man called Crusty, who turns out to actually be Procrustes, a dangerous figure from Greek myths known for forcing travelers onto a bed that \"fits them perfectly\" no matter what. His friendly act hides something sinister." },
@@ -241,7 +241,7 @@ const percyJackson: Series = {
         {
           id: "ch-18",
           number: 18,
-          title: "Past Cerberus and Into the Underworld",
+          title: "Annabeth Does Obedience School",
           listenFor: "How does Annabeth manage to get past the terrifying three-headed guard dog?",
           questions: [
             { q: "What gift does a mysterious sea spirit give Percy at Santa Monica Beach?", a: "A Nereid, a spirit of the sea, gives Percy three magical pearls and tells him to trust his heart about when the right moment is to use them. She also warns him not to trust Hades." },
@@ -254,7 +254,7 @@ const percyJackson: Series = {
         {
           id: "ch-19",
           number: 19,
-          title: "Face to Face with Hades",
+          title: "We Find Out the Truth. Sort Of",
           listenFor: "What does Percy find inside his own backpack that changes everything?",
           questions: [
             { q: "What does Hades accuse Percy of doing?", a: "Hades furiously accuses Percy of stealing both Zeus's master lightning bolt and his own helm of darkness, believing Percy was sent by Poseidon to start a war among the gods. Percy is completely confused, since he has no idea what Hades is talking about." },
@@ -267,7 +267,7 @@ const percyJackson: Series = {
         {
           id: "ch-20",
           number: 20,
-          title: "Showdown on the Beach",
+          title: "I Battle My Jerk Relative",
           listenFor: "What does Ares finally admit about his role in the whole stolen-bolt scheme?",
           questions: [
             { q: "Where do Percy and his friends end up after escaping the Underworld?", a: "The magic pearls carry them safely back up to Santa Monica Beach, right where they had entered the Underworld's neighborhood earlier in their journey. It's a relief to be back under the open sky." },
@@ -280,7 +280,7 @@ const percyJackson: Series = {
         {
           id: "ch-21",
           number: 21,
-          title: "Returning the Bolt",
+          title: "I Settle My Tab",
           listenFor: "What does Percy do at the top of the Empire State Building?",
           questions: [
             { q: "Why is the manhunt against Percy called off?", a: "Since it now looks like Percy was actually kidnapped and forced into everything rather than committing crimes on purpose, the mortal authorities call off their search for him. It's a huge relief after being treated like a fugitive." },
@@ -293,7 +293,7 @@ const percyJackson: Series = {
         {
           id: "ch-22",
           number: 22,
-          title: "Luke's Betrayal",
+          title: "The Prophecy Comes True",
           listenFor: "Which camper does Percy discover has been secretly working against him the whole time?",
           questions: [
             { q: "How does Camp Half-Blood celebrate Percy's return from his quest?", a: "The camp throws a big feast and bonfire in Percy's honor, since he's one of the first heroes to survive a major quest in a long time. They even burn symbolic burial shrouds that had been prepared in case the questers didn't make it back." },
@@ -317,7 +317,7 @@ const percyJackson: Series = {
         {
           id: "ch-01",
           number: 1,
-          title: "A Scary Dream About Grover",
+          title: "My Best Friend Shops for a Wedding Dress",
           listenFor: "What is chasing Grover in Percy's dream, and why does he end up hiding among wedding dresses?",
           questions: [
             { q: "What does Percy dream about at the start of the book?", a: "Percy dreams that his best friend Grover is running through a stormy Florida beach town at night, being chased by something dangerous. Grover ducks into a bridal shop and hides behind a rack of wedding dresses to escape." },
@@ -330,7 +330,7 @@ const percyJackson: Series = {
         {
           id: "ch-02",
           number: 2,
-          title: "Dodgeball with Monsters",
+          title: "I Play Dodgeball with Cannibals",
           listenFor: "What do the dodgeballs the 'other team' throws turn out to actually be?",
           questions: [
             { q: "Who do Percy, Annabeth, and Tyson end up facing in a dodgeball-style showdown?", a: "They face Laistrygonian giants, cannibal monsters disguised as an opposing dodgeball team, who attack them with deadly throws instead of playing fair." },
@@ -343,7 +343,7 @@ const percyJackson: Series = {
         {
           id: "ch-03",
           number: 3,
-          title: "The Craziest Taxi Ride Ever",
+          title: "We Hail the Taxi of Eternal Torment",
           listenFor: "What's strange about the three sisters who drive the magical taxi?",
           questions: [
             { q: "Who do Percy and his friends hire to get to Camp Half-Blood quickly?", a: "They hail a strange magical taxi driven by the Gray Sisters, three old women who share just one eye and one tooth between them." },
@@ -356,7 +356,7 @@ const percyJackson: Series = {
         {
           id: "ch-04",
           number: 4,
-          title: "A Fiery Secret at Camp",
+          title: "Tyson Plays with Fire",
           listenFor: "What does Tyson do around the camp forges that surprises everyone, including Percy?",
           questions: [
             { q: "What do Percy, Annabeth, and Tyson find when they finally arrive at Camp Half-Blood?", a: "They find the camp's magical borders weakened and the atmosphere tense, since the protective magic that normally keeps monsters out has been failing." },
@@ -369,7 +369,7 @@ const percyJackson: Series = {
         {
           id: "ch-05",
           number: 5,
-          title: "Percy's Surprising Brother",
+          title: "I Get a New Cabin Mate",
           listenFor: "What big secret about Tyson gets revealed, and how does Percy react to it?",
           questions: [
             { q: "What surprising truth is revealed about Tyson's identity?", a: "Tyson is revealed to be a Cyclops and a son of Poseidon, which makes him Percy's half-brother, something Percy never expected." },
@@ -382,7 +382,7 @@ const percyJackson: Series = {
         {
           id: "ch-06",
           number: 6,
-          title: "Demon Pigeons Attack the Chariot Race",
+          title: "Demon Pigeons Attack",
           listenFor: "What silly trick does Percy use to make the demon pigeons go wild?",
           questions: [
             { q: "What new activity does Tantalus bring back to camp, and what does it have to do with this chapter's attack?", a: "Tantalus revives the old tradition of chariot races at camp, and it's during one of these practice races that trouble breaks out. What should be an exciting event quickly turns into chaos." },
@@ -395,7 +395,7 @@ const percyJackson: Series = {
         {
           id: "ch-07",
           number: 7,
-          title: "A Mysterious Visitor Brings Gifts",
+          title: "I Accept Gifts from a Stranger",
           listenFor: "Who is the stranger that visits Percy, and what surprising gifts does he leave behind?",
           questions: [
             { q: "Who visits Percy in disguise during this chapter?", a: "The god Hermes visits Percy, disguised as an ordinary traveler rather than revealing himself right away." },
@@ -408,7 +408,7 @@ const percyJackson: Series = {
         {
           id: "ch-08",
           number: 8,
-          title: "Sneaking Onto Luke's Cruise Ship",
+          title: "We Board the Princess Andromeda",
           listenFor: "Why do Percy and his friends risk sneaking onto the Princess Andromeda?",
           questions: [
             { q: "What is the Princess Andromeda?", a: "The Princess Andromeda is a cruise ship that actually belongs to Luke, serving as a base for his and Kronos's growing forces." },
@@ -421,7 +421,7 @@ const percyJackson: Series = {
         {
           id: "ch-09",
           number: 9,
-          title: "Face to Face with Luke",
+          title: "I Have the Worst Family Reunion Ever",
           listenFor: "What shocking confession does Luke make about Thalia's poisoned tree?",
           questions: [
             { q: "What do Percy, Annabeth, and Tyson overhear while sneaking around the Princess Andromeda?", a: "They overhear a conversation revealing that a camper named Chris Rodriguez is mixed up in Luke's dark plans. It's an unsettling clue about how far Luke's influence has spread." },
@@ -434,7 +434,7 @@ const percyJackson: Series = {
         {
           id: "ch-10",
           number: 10,
-          title: "Rescued by a Ghost Ship",
+          title: "We Hitch a Ride with Dead Confederates",
           listenFor: "What strange, ghostly ship rescues Percy and his friends after they escape into the sea?",
           questions: [
             { q: "What kind of ship rescues Percy, Annabeth, and Tyson after they end up stranded at sea?", a: "They are rescued by a ghostly Civil War-era ironclad ship crewed by the spirits of long-dead sailors." },
@@ -447,7 +447,7 @@ const percyJackson: Series = {
         {
           id: "ch-11",
           number: 11,
-          title: "Clarisse Battles the Sea Monsters",
+          title: "Clarisse Blows Up Everything",
           listenFor: "What two dangerous sea monsters does Clarisse's ship have to pass between?",
           questions: [
             { q: "Whose ship does Percy's group encounter again in this chapter?", a: "They encounter Clarisse, who is out on her official quest for the Golden Fleece aboard her own ship." },
@@ -460,7 +460,7 @@ const percyJackson: Series = {
         {
           id: "ch-12",
           number: 12,
-          title: "Trapped at Circe's Island Spa",
+          title: "We Check In to C.C.'s Spa & Resort",
           listenFor: "What does the mysterious spa owner turn unsuspecting guests into?",
           questions: [
             { q: "Where do Percy, Annabeth, and Tyson end up after the shipwreck?", a: "They wash up on an island home to a luxurious spa and resort run by the enchantress Circe." },
@@ -473,7 +473,7 @@ const percyJackson: Series = {
         {
           id: "ch-13",
           number: 13,
-          title: "Annabeth's Moment of Doubt",
+          title: "Annabeth Tries to Swim Home",
           listenFor: "Why does Annabeth try to leave the group and swim away on her own?",
           questions: [
             { q: "What state is Annabeth in after Percy frees her from Circe's spell?", a: "Annabeth is shaken and emotionally overwhelmed, clearly affected by whatever Circe's magic stirred up in her feelings." },
@@ -486,7 +486,7 @@ const percyJackson: Series = {
         {
           id: "ch-14",
           number: 14,
-          title: "Grover in Danger on Polyphemus's Island",
+          title: "We Meet the Sheep of Doom",
           listenFor: "Who does Percy discover disguised and in danger on the Cyclops's island?",
           questions: [
             { q: "What dangerous creature do Percy, Annabeth, and Tyson find guarding the Golden Fleece?", a: "They find Polyphemus, a fearsome Cyclops, guarding the island where the Golden Fleece and his prized sheep are kept." },
@@ -499,7 +499,7 @@ const percyJackson: Series = {
         {
           id: "ch-15",
           number: 15,
-          title: "Tricking the Cyclops One Last Time",
+          title: "Nobody Gets the Fleece",
           listenFor: "How does Percy trick Polyphemus into thinking 'Nobody' is responsible, and what does it cost them?",
           questions: [
             { q: "How did Tyson survive after Percy last saw him, according to what he explains?", a: "Tyson explains that Rainbow, one of the hippocampi, had been following him since Long Island Sound and saved him after the ghost ship was wrecked." },
@@ -512,7 +512,7 @@ const percyJackson: Series = {
         {
           id: "ch-16",
           number: 16,
-          title: "Swept Away to Miami",
+          title: "I Go Down with the Ship",
           listenFor: "Who comes to the rescue when the ship sinks, and where does everyone end up washing ashore?",
           questions: [
             { q: "How do Percy and Tyson survive after their ship sinks?", a: "Percy and Tyson swim toward their companions and call on the hippocampi for help." },
@@ -525,7 +525,7 @@ const percyJackson: Series = {
         {
           id: "ch-17",
           number: 17,
-          title: "A Plan on the Beach — and a Trap",
+          title: "We Get a Surprise on Miami Beach",
           listenFor: "What clever plan does Percy come up with, and who ambushes them right after?",
           questions: [
             { q: "What urgent deadline do Percy and his friends realize they're up against after washing ashore in Miami?", a: "They realize they've been gone from Camp Half-Blood for ten days and must get the Golden Fleece back to camp that same night, or Thalia's tree will die for good. Time is running out fast." },
@@ -538,7 +538,7 @@ const percyJackson: Series = {
         {
           id: "ch-18",
           number: 18,
-          title: "The Party Ponies Save the Day",
+          title: "The Party Ponies Invade",
           listenFor: "What huge secret does Chiron reveal about his own father?",
           questions: [
             { q: "What does Percy do once he's dragged back aboard the Princess Andromeda by Luke?", a: "Despite being hurt and outnumbered, Percy confronts Luke directly and tries to distract him, buying time and a chance for Annabeth and Grover to slip away. It's a risky, desperate move." },
@@ -551,7 +551,7 @@ const percyJackson: Series = {
         {
           id: "ch-19",
           number: 19,
-          title: "The Big Chariot Race",
+          title: "The Chariot Race Ends with a Bang",
           listenFor: "How does Tyson help Percy and Annabeth win the camp's chariot race?",
           questions: [
             { q: "What happens as soon as Percy and Annabeth make it back to camp?", a: "They arrive just after Clarisse, who drapes the Golden Fleece on Thalia's tree, instantly reviving it and turning it green again." },
@@ -564,7 +564,7 @@ const percyJackson: Series = {
         {
           id: "ch-20",
           number: 20,
-          title: "An Unexpected Side Effect of the Fleece",
+          title: "The Fleece Works Its Magic Too Well",
           listenFor: "What surprising and dramatic thing happens because the Fleece heals Thalia's tree so powerfully?",
           questions: [
             { q: "What unexpected thing happens because the Fleece heals Thalia's tree so completely?", a: "The Fleece's powerful magic ends up doing more than just healing the tree, since it starts bringing back the girl, Thalia, whose spirit was tied to it." },
@@ -588,7 +588,7 @@ const percyJackson: Series = {
         {
           id: "ch-01",
           number: 1,
-          title: "The Rescue Mission at Westover Hall",
+          title: "My Rescue Operation Goes Very Wrong",
           listenFor: "Can Percy and his friends convince the Vice Principal they belong at Westover Hall, or does he already suspect something is wrong with them?",
           questions: [
             { q: "Why did Percy, Thalia, and Annabeth travel to Westover Hall?", a: "They went to the boarding school because Grover had sent an emergency signal saying he'd found two powerful new demigods there. They needed to sneak in and get the two kids, Bianca and Nico di Angelo, safely out before anything dangerous found them first." },
@@ -601,7 +601,7 @@ const percyJackson: Series = {
         {
           id: "ch-02",
           number: 2,
-          title: "The Vice-Principal's Terrifying Secret",
+          title: "The Vice-Principal Gets a Missile Launcher",
           listenFor: "What is Dr. Thorn really hiding underneath his teacher disguise?",
           questions: [
             { q: "What creature does Dr. Thorn really turn out to be?", a: "Dr. Thorn is actually a manticore, a monster with the body of a lion, a human face, and a scorpion-like tail that shoots spikes. He'd been disguising himself as a teacher so he could get close to demigods like Bianca and Nico." },
@@ -614,7 +614,7 @@ const percyJackson: Series = {
         {
           id: "ch-03",
           number: 3,
-          title: "Bianca's Big Decision",
+          title: "Bianca di Angelo Makes a Choice",
           listenFor: "What impossible choice does Bianca have to make about her whole future?",
           questions: [
             { q: "Who arrives to help explain what happened to Annabeth?", a: "The goddess Artemis herself arrives and explains that Annabeth vanished because of some very powerful, mysterious magic. She takes charge of the situation and reassures the group while they figure out next steps." },
@@ -627,7 +627,7 @@ const percyJackson: Series = {
         {
           id: "ch-04",
           number: 4,
-          title: "Thalia Takes the Wheel",
+          title: "Thalia Torches New England",
           listenFor: "Can Thalia handle the wheel of a giant vehicle without setting the whole state ablaze?",
           questions: [
             { q: "How does the group get help traveling back toward Camp Half-Blood?", a: "The god Apollo shows up and offers them a ride, letting them borrow his flashy vehicle to travel quickly across the country. It's a wild and unusual way to catch a ride, even for demigods." },
@@ -640,7 +640,7 @@ const percyJackson: Series = {
         {
           id: "ch-05",
           number: 5,
-          title: "A Call to the Bottom of the Sea",
+          title: "I Make an Underwater Phone Call",
           listenFor: "What news from deep beneath the ocean waves will Percy learn from his family?",
           questions: [
             { q: "How does Percy try to reach his father in this chapter?", a: "Percy finds a way to send an underwater message to contact Poseidon, using special magic connected to the sea. It's a risky move, but he's desperate for guidance and information." },
@@ -653,7 +653,7 @@ const percyJackson: Series = {
         {
           id: "ch-06",
           number: 6,
-          title: "A Prophecy from the Oracle",
+          title: "An Old Dead Friend Comes to Visit",
           listenFor: "What strange and spooky visitor interrupts the game of capture the flag?",
           questions: [
             { q: "What does Percy find that reminds him of Annabeth?", a: "Percy comes across a pamphlet about joining the Hunters of Artemis that had belonged to Annabeth. Finding it stirs up his worry and makes him think hard about what might have happened to her." },
@@ -666,7 +666,7 @@ const percyJackson: Series = {
         {
           id: "ch-07",
           number: 7,
-          title: "Left Behind at Camp",
+          title: "Everybody Hates Me but the Horse",
           listenFor: "Why does it seem like nobody at camp wants Percy on the quest?",
           questions: [
             { q: "Why does Percy feel like an outsider in this chapter?", a: "Zoe, the Hunters' leader, picks the members for the upcoming quest, and Percy isn't chosen to go along at first. It stings, especially since he desperately wants to help find Annabeth." },
@@ -679,7 +679,7 @@ const percyJackson: Series = {
         {
           id: "ch-08",
           number: 8,
-          title: "A Promise and a Secret Rescue",
+          title: "I Make a Dangerous Promise",
           listenFor: "What big promise does Percy make, and can he really keep it?",
           questions: [
             { q: "What do Percy and Blackjack do together in this chapter?", a: "Percy and Blackjack team up to rescue a strange sea creature named Bessie, who turns out to be a rare cow-serpent called an Ophiotaurus. It's a tricky and risky rescue mission." },
@@ -692,7 +692,7 @@ const percyJackson: Series = {
         {
           id: "ch-09",
           number: 9,
-          title: "Spying on the Enemy",
+          title: "I Learn How to Grow Zombies",
           listenFor: "What horrifying army is the mysterious General growing out of the ground?",
           questions: [
             { q: "How does Percy manage to secretly follow the quest group?", a: "Percy flies on Blackjack and has to be extra careful to avoid being noticed, especially by Dionysus, who could easily give him away. It's a tense and secretive part of his journey." },
@@ -705,7 +705,7 @@ const percyJackson: Series = {
         {
           id: "ch-10",
           number: 10,
-          title: "The Lion in the Museum",
+          title: "I Break a Few Rocket Ships",
           listenFor: "How do you defeat a lion that no weapon can even scratch?",
           questions: [
             { q: "Where does Percy finally catch up with the quest group?", a: "Percy finds them at the Air and Space Museum, where he rushes in to warn them about the skeleton warriors he saw being created. It's a dramatic reunion under pressure." },
@@ -718,7 +718,7 @@ const percyJackson: Series = {
         {
           id: "ch-11",
           number: 11,
-          title: "Riding the Rails West",
+          title: "Grover Gets a Lamborghini",
           listenFor: "Who is the strange homeless man who keeps showing up wherever the heroes go?",
           questions: [
             { q: "What is following the group as they try to travel west?", a: "A suspicious helicopter tails them, which they realize is being flown or guided by their skeleton warrior enemies in disguise. It forces them to think fast about how to escape unnoticed." },
@@ -731,7 +731,7 @@ const percyJackson: Series = {
         {
           id: "ch-12",
           number: 12,
-          title: "A Wild Ride on a Giant Boar",
+          title: "I Go Snowboarding with a Pig",
           listenFor: "Can a giant angry boar actually become their ride out of the mountains?",
           questions: [
             { q: "What danger catches up with the group in the snowy mountains?", a: "The skeleton warriors track them down again and attack in a snowy, mountainous area. The group has to fight them off while figuring out their next move." },
@@ -744,7 +744,7 @@ const percyJackson: Series = {
         {
           id: "ch-13",
           number: 13,
-          title: "Trouble in the Junkyard",
+          title: "We Visit the Junkyard of the Gods",
           listenFor: "What terrible price will the quest pay in a yard full of giant metal parts?",
           questions: [
             { q: "Where does the giant boar finally bring the group?", a: "The boar carries them to a massive desert junkyard filled with giant leftover parts from the gods' old inventions. It's an eerie, enormous place full of metal and mystery." },
@@ -757,7 +757,7 @@ const percyJackson: Series = {
         {
           id: "ch-14",
           number: 14,
-          title: "Trapped at the Hoover Dam",
+          title: "I Have a Dam Problem",
           listenFor: "Who is the surprising new mortal girl who can see straight through the Mist?",
           questions: [
             { q: "How does the grieving group travel after leaving the junkyard?", a: "They escape first in an old tow truck and later paddle canoes down a river, making their way toward the Hoover Dam. It's a tense journey made harder by their grief over losing Bianca." },
@@ -770,7 +770,7 @@ const percyJackson: Series = {
         {
           id: "ch-15",
           number: 15,
-          title: "Wrestling the Old Man of the Sea",
+          title: "I Wrestle Santa's Evil Twin",
           listenFor: "What secret about a strange sea creature could shake all of Mount Olympus?",
           questions: [
             { q: "Where do the bronze statues leave the group at the start of this chapter?", a: "The statues drop them off in San Francisco, a city Zoe mentions is thick with old Titan magic. It's an important next stop on their journey to save Annabeth and Artemis." },
@@ -783,7 +783,7 @@ const percyJackson: Series = {
         {
           id: "ch-16",
           number: 16,
-          title: "The Dragon Guarding the Garden",
+          title: "We Meet the Dragon of Eternal Bad Breath",
           listenFor: "What shocking secret does Zoe finally have to admit about the General?",
           questions: [
             { q: "What job does Grover take on to keep Bessie safe?", a: "Grover volunteers to escort Bessie, the Ophiotaurus, safely back toward Long Island Sound by sea, splitting off from the rest of the group. It's a brave solo mission to protect the important creature." },
@@ -796,7 +796,7 @@ const percyJackson: Series = {
         {
           id: "ch-17",
           number: 17,
-          title: "Holding Up the Sky",
+          title: "I Put on a Few Million Extra Kilograms",
           listenFor: "What impossibly heavy job does Percy have to take on to save Artemis?",
           questions: [
             { q: "What shocking sight greets Percy and his friends at the top of the mountain?", a: "They find the goddess Artemis trapped, forced to hold up the entire sky on her shoulders. It's a stunning and heartbreaking sight after everything they've gone through to get there." },
@@ -809,7 +809,7 @@ const percyJackson: Series = {
         {
           id: "ch-18",
           number: 18,
-          title: "Goodbye to a Brave Friend",
+          title: "A Friend Says Goodbye",
           listenFor: "What does Zoe want Thalia and Percy to know before she says goodbye?",
           questions: [
             { q: "Why can't Zoe be saved after the battle on the mountain?", a: "Zoe was badly hurt and poisoned during the fighting, and her wounds turn out to be too severe for anyone to heal. Despite everyone's efforts, there's nothing that can be done for her." },
@@ -822,7 +822,7 @@ const percyJackson: Series = {
         {
           id: "ch-19",
           number: 19,
-          title: "The Gods Decide Percy's Fate",
+          title: "The Gods Vote How to Kill Us",
           listenFor: "Will the gods on Mount Olympus decide to save Percy, or destroy him?",
           questions: [
             { q: "What frightening topic do some of the gods bring up about Percy at the meeting on Olympus?", a: "Some gods, like Ares and Athena, suggest that Percy might need to be eliminated because he could become the center of a dangerous future prophecy. It's a scary and unfair idea that Percy has to sit through." },
@@ -835,7 +835,7 @@ const percyJackson: Series = {
         {
           id: "ch-20",
           number: 20,
-          title: "A Hard Goodbye and a New Mystery",
+          title: "I Get a New Enemy for Christmas",
           listenFor: "What enormous secret about Nico does Percy discover, and will he tell?",
           questions: [
             { q: "What difficult news does Percy have to share with Nico in this chapter?", a: "Percy has to tell Nico that his sister Bianca died during the quest, which is one of the hardest conversations Percy has ever had. Nico takes the news very badly." },
@@ -859,7 +859,7 @@ const percyJackson: Series = {
         {
           id: "ch-01",
           number: 1,
-          title: "Cheerleaders with Fangs",
+          title: "I Battle the Cheerleading Squad",
           listenFor: "Watch for a hidden monster hiding in plain sight — can you spot who isn't what they seem before Percy does?",
           questions: [
             { q: "Where does Percy run into Rachel Elizabeth Dare again in this chapter?", a: "Percy runs into Rachel during freshman orientation at Goode High School in New York City, where he's actually trying to avoid her." },
@@ -872,7 +872,7 @@ const percyJackson: Series = {
         {
           id: "ch-02",
           number: 2,
-          title: "A Strange Call from the Underworld",
+          title: "The Underworld Sends Me a Prank Call",
           listenFor: "Listen for the mysterious message about trading one soul for another — whose soul do you think it could be about?",
           questions: [
             { q: "Who does Percy meet guarding the camp's sword arena, and what pet does this person have?", a: "Percy meets Quintus, camp's new sword-fighting instructor, and his enormous pet hellhound named Mrs. O'Leary, who turns out to be surprisingly friendly." },
@@ -885,7 +885,7 @@ const percyJackson: Series = {
         {
           id: "ch-03",
           number: 3,
-          title: "A Secret Door at Zeus's Fist",
+          title: "We Play Tag with Scorpions",
           listenFor: "Keep an eye out for exactly where the entrance to the Labyrinth turns out to be hiding.",
           questions: [
             { q: "What attacks camp's border in this chapter?", a: "A huge Aethiopian drakon attacks, and Lee Fletcher and the Apollo cabin have to drive it away." },
@@ -898,7 +898,7 @@ const percyJackson: Series = {
         {
           id: "ch-04",
           number: 4,
-          title: "Annabeth's Big Decision",
+          title: "Annabeth Breaks the Rules",
           listenFor: "Listen for the ancient quest rule Annabeth is about to break, and why she thinks it's worth it.",
           questions: [
             { q: "What does Percy dream about at the start of this chapter?", a: "Percy dreams of ancient Crete, where King Minos punishes Daedalus and threatens his son Icarus to force Daedalus to keep building for him." },
@@ -911,7 +911,7 @@ const percyJackson: Series = {
         {
           id: "ch-05",
           number: 5,
-          title: "Nico's Ghostly Fast-Food Ritual",
+          title: "Nico Buys Happy Meals for the Dead",
           listenFor: "Listen for the name of the famous ghost Nico manages to summon, and the warning he gives.",
           questions: [
             { q: "What does Percy see in his dream about the Princess Andromeda?", a: "Percy dreams of Luke kneeling before Kronos's coffin, and Kronos tells Luke that camp is sending a quest and that he'll invade once his forces find a way through the Labyrinth." },
@@ -924,7 +924,7 @@ const percyJackson: Series = {
         {
           id: "ch-06",
           number: 6,
-          title: "Lost in the Maze and the God of Doors",
+          title: "We Meet the God with Two Faces",
           listenFor: "Listen closely to the two-faced god's warning about choosing a door — and who steps in to stop him.",
           questions: [
             { q: "What kind of room do Percy's group stumble into after getting lost?", a: "They find a large chamber decorated with ancient Roman mosaics showing gods feasting, along with an old dry fountain." },
@@ -937,7 +937,7 @@ const percyJackson: Series = {
         {
           id: "ch-07",
           number: 7,
-          title: "Tyson to the Rescue",
+          title: "Tyson Leads a Jailbreak",
           listenFor: "Listen for the name of the terrifying dragon-woman jailer, and how Tyson gets a giant to finally move.",
           questions: [
             { q: "Where does the group end up after Tyson smashes through a boulder blocking a dead end?", a: "They find themselves inside a prison on what Annabeth identifies as Alcatraz Island." },
@@ -950,7 +950,7 @@ const percyJackson: Series = {
         {
           id: "ch-08",
           number: 8,
-          title: "Trouble at the Triple G Ranch",
+          title: "We Visit the Demon Dude Ranch",
           listenFor: "Watch for the deal Percy makes to try to save his friends — and who's already at the ranch.",
           questions: [
             { q: "What does Briares confess to Percy before they move on?", a: "Briares says he feels worthless because his brothers have faded, but Percy argues that monsters and immortals fade when they give up on themselves." },
@@ -963,7 +963,7 @@ const percyJackson: Series = {
         {
           id: "ch-09",
           number: 9,
-          title: "The Smelliest Job Ever",
+          title: "I Scoop Poop",
           listenFor: "Listen for how Percy solves the impossible cleanup job — and what finally happens to Geryon.",
           questions: [
             { q: "What ancient hero does Percy remember facing a similar task?", a: "Percy recalls that Hercules once diverted a river to clean out similarly filthy stables." },
@@ -976,7 +976,7 @@ const percyJackson: Series = {
         {
           id: "ch-10",
           number: 10,
-          title: "Ghosts, Riddles, and a Game Show",
+          title: "We Play the Game Show of Death",
           listenFor: "Listen for which ghost gives Nico an important message about forgiveness — and what new guide leads them onward.",
           questions: [
             { q: "What ritual does Nico perform that night, and who shows up first?", a: "Nico pours root beer and tosses food into a pit while chanting, and the ghost of King Minos shows up uninvited and drinks the offering before anyone else can." },
@@ -989,7 +989,7 @@ const percyJackson: Series = {
         {
           id: "ch-11",
           number: 11,
-          title: "Face to Face with the Fire God",
+          title: "I Set Myself on Fire",
           listenFor: "Listen for the price Hephaestus asks for his help — and how Percy escapes an army of fire demons.",
           questions: [
             { q: "Who does the group meet in a workshop under Mount St. Helens?", a: "They meet Hephaestus, the bitter, cynical god of the forge, who feels betrayed by the other gods." },
@@ -1002,7 +1002,7 @@ const percyJackson: Series = {
         {
           id: "ch-12",
           number: 12,
-          title: "Washed Ashore on a Magic Island",
+          title: "I Take a Permanent Vacation",
           listenFor: "Listen for the hard choice Percy has to make about staying or leaving the island.",
           questions: [
             { q: "Where does Percy wake up after being blasted out of the volcano?", a: "He wakes up on the hidden island of Ogygia, being cared for by a girl named Calypso." },
@@ -1015,7 +1015,7 @@ const percyJackson: Series = {
         {
           id: "ch-13",
           number: 13,
-          title: "A New Guide Joins the Quest",
+          title: "We Hire a New Guide",
           listenFor: "Listen for who Percy convinces to become their surprising new guide through the maze.",
           questions: [
             { q: "What is happening at camp when Percy's raft washes ashore?", a: "Camp is holding a funeral ceremony for Percy, who's been missing for about two weeks." },
@@ -1028,7 +1028,7 @@ const percyJackson: Series = {
         {
           id: "ch-14",
           number: 14,
-          title: "A Deadly Arena Duel",
+          title: "My Brother Duels Me to the Death",
           listenFor: "Listen for who Luke calls Percy's 'brother' — and how Percy manages to beat him.",
           questions: [
             { q: "Who captures Percy, Annabeth, and Rachel and leads them into an arena?", a: "Luke's forces capture them and march them into an arena run by the giant Antaeus, who hosts gladiator-style fights." },
@@ -1041,7 +1041,7 @@ const percyJackson: Series = {
         {
           id: "ch-15",
           number: 15,
-          title: "The Truth About Quintus",
+          title: "We Steal Some Slightly Used Wings",
           listenFor: "Listen closely — this is the chapter where Quintus finally reveals an enormous secret.",
           questions: [
             { q: "Where does an earthquake force the group in this chapter?", a: "It forces them into a modern, steel corridor that leads to Daedalus's actual workshop." },
@@ -1054,7 +1054,7 @@ const percyJackson: Series = {
         {
           id: "ch-16",
           number: 16,
-          title: "A Golden Coffin's Secret",
+          title: "I Open a Coffin",
           listenFor: "Listen for what — or who — Percy finds inside the strange golden coffin, and why it's so unsettling.",
           questions: [
             { q: "Where does the group land after their wing-flight goes wrong?", a: "They land safely, thanks to Percy gaining control of the bronze wings, in the Garden of the Gods." },
@@ -1067,7 +1067,7 @@ const percyJackson: Series = {
         {
           id: "ch-17",
           number: 17,
-          title: "Finding the Lost God Pan",
+          title: "The Lost God Speaks",
           listenFor: "Listen for the message Pan gives Grover before he fades away.",
           questions: [
             { q: "What has Grover been searching for this whole book?", a: "Grover has been searching for the lost nature god Pan, hoping to prove to the Council of Cloven Elders that Pan can still be found." },
@@ -1080,7 +1080,7 @@ const percyJackson: Series = {
         {
           id: "ch-18",
           number: 18,
-          title: "Back to Camp and Into Battle",
+          title: "Grover Causes a Stampede",
           listenFor: "Listen for the bold announcement Grover makes to the Council leader, and how the battle at camp turns out.",
           questions: [
             { q: "Where does the group emerge from the Labyrinth, and who greets them?", a: "They emerge onto a sidewalk near Times Square, where Percy whistles and a flock of pegasi led by Blackjack swoops down to meet them." },
@@ -1093,7 +1093,7 @@ const percyJackson: Series = {
         {
           id: "ch-19",
           number: 19,
-          title: "Grover's Trial Before the Council",
+          title: "The Council Gets Cloven",
           listenFor: "Listen for how the vote on Grover's fate turns out, and who stands up for him.",
           questions: [
             { q: "What does the Council of Cloven Elders do when Grover tells them about Pan?", a: "They call Grover a liar and refuse to believe Pan has really died." },
@@ -1106,7 +1106,7 @@ const percyJackson: Series = {
         {
           id: "ch-20",
           number: 20,
-          title: "Percy's Birthday Surprise",
+          title: "My Birthday Party Takes a Dark Turn",
           listenFor: "Listen for what Percy's dad tells him about Kronos, and what choice Daedalus makes at the very end.",
           questions: [
             { q: "Who shows up during Percy's birthday celebration to deliver a serious warning?", a: "Poseidon arrives to warn Percy about the growing threats of Kronos and the monster Typhon." },
@@ -1130,7 +1130,7 @@ const percyJackson: Series = {
         {
           id: "ch-01",
           number: 1,
-          title: "A Risky Mission at Sea",
+          title: "I Go Cruising with Explosives",
           listenFor: "Listen for how Percy and Beckendorf's secret plan to blow up the monster ship starts to go wrong.",
           questions: [
             { q: "Who was riding on Blackjack when he crash-landed on Paul's car?", a: "Charles Beckendorf, the senior counselor from the Hephaestus cabin, landed on Blackjack to tell Percy it was time for their mission. He was already dressed for battle with an explosives bag ready to go." },
@@ -1143,7 +1143,7 @@ const percyJackson: Series = {
         {
           id: "ch-02",
           number: 2,
-          title: "Beneath the Waves with Poseidon",
+          title: "I Meet Some Fishy Relatives",
           listenFor: "Listen for what worrying news Percy learns about his friend Beckendorf, and what big secret his dad asks him to find out back at camp.",
           questions: [
             { q: "Where did Percy wake up after the explosion, and who was taking care of him?", a: "Percy woke up deep underwater in Poseidon's undersea palace, where his brother Tyson had been watching over him. Tyson explained that he and others had found Percy sinking through the water the night before." },
@@ -1156,7 +1156,7 @@ const percyJackson: Series = {
         {
           id: "ch-03",
           number: 3,
-          title: "The Camp Hears a Scary Prophecy",
+          title: "I Get a Sneak Peek at My Death",
           listenFor: "Listen closely to the four-line prophecy Percy finally gets to hear -- what do you think 'a single choice shall end his days' could mean?",
           questions: [
             { q: "How did the camp react when Percy returned without Beckendorf?", a: "Instead of the cheerful welcome Percy expected, the mood turned somber and sad, especially for Silena Beauregard, Beckendorf's girlfriend, who broke down crying when she realized he wasn't coming back. Clarisse comforted her and led her away." },
@@ -1169,7 +1169,7 @@ const percyJackson: Series = {
         {
           id: "ch-04",
           number: 4,
-          title: "Camp Grieves and Gets Ready",
+          title: "We Burn a Metal Shroud",
           listenFor: "Listen for the clues hidden in Rachel's strange paintings -- what do they seem to be warning about?",
           questions: [
             { q: "What strange paintings did Rachel show in Percy's dream?", a: "Rachel had painted Percy standing over a giant, sketched Luke as a smiling nine-year-old boy without his scar, and drawn the Empire State Building under attack with a giant hand reaching from storm clouds. Her father was worried these nightmares meant something was wrong with her." },
@@ -1182,7 +1182,7 @@ const percyJackson: Series = {
         {
           id: "ch-05",
           number: 5,
-          title: "A Secret Plan and a Shadowy Ride",
+          title: "I Drive My Dog into a Tree",
           listenFor: "Listen for the big, risky decision Percy finally makes with Nico -- and how they travel to get there.",
           questions: [
             { q: "Who did Percy find in the woods with Mrs. O'Leary, and what was wrong?", a: "He found Juniper the tree nymph, worried sick because her boyfriend Grover was missing, along with Nico di Angelo and an old satyr named Leneus who refused to help search for him. Leneus even called Grover a \"traitor.\"" },
@@ -1195,7 +1195,7 @@ const percyJackson: Series = {
         {
           id: "ch-06",
           number: 6,
-          title: "Meeting Luke's Mother",
+          title: "My Cookies Get Scorched",
           listenFor: "Listen for what May Castellan says about the day Luke visited her after he got his scar -- and what she was asked to give him.",
           questions: [
             { q: "What was strange and sad about May Castellan's house?", a: "The yard was filled with old, ratty stuffed monster toys, the kitchen held moldy sandwiches and burnt cookies she'd made for Luke, and she kept mistaking Nico and then Percy for her son. She seemed to believe Luke would be home for lunch any minute, even though he'd run away years ago." },
@@ -1208,7 +1208,7 @@ const percyJackson: Series = {
         {
           id: "ch-07",
           number: 7,
-          title: "Tricked into the Underworld",
+          title: "My Math Teacher Gives Me a Lift",
           listenFor: "Listen for the surprising deal Nico made with his father, Hades, and how it gets Percy into big trouble.",
           questions: [
             { q: "How did Percy and Nico find Grover, and what shocking thing had happened to him?", a: "Percy used his empathy link to sense Grover trapped asleep among tree roots in Central Park, and once they woke him, Grover realized with shock that two whole months had passed while he slept. He'd been put under a spell by the god Morpheus, who had been scouting the park for Kronos." },
@@ -1221,7 +1221,7 @@ const percyJackson: Series = {
         {
           id: "ch-08",
           number: 8,
-          title: "Percy's Dip in the River Styx",
+          title: "I Take the Worst Bath Ever",
           listenFor: "Listen for the secret spot on Percy's body that becomes his one weakness -- and who helps him survive the river's pain.",
           questions: [
             { q: "What warning did the ghost of Achilles give Percy at the River Styx?", a: "Achilles warned that the river's magic could destroy Percy completely unless he focused hard on one single \"mortal point\" to stay anchored to life. He also admitted that Luke had already gone through the same ritual before him." },
@@ -1234,7 +1234,7 @@ const percyJackson: Series = {
         {
           id: "ch-09",
           number: 9,
-          title: "No Help from the Gods",
+          title: "Two Snakes Save My Life",
           listenFor: "Listen for the surprising reason none of the gods can come help defend the city.",
           questions: [
             { q: "Why did Chiron refuse to go up into Olympus with the campers?", a: "Chiron explained that he makes it a rule never to visit Olympus unless he's specifically summoned, so instead he named Percy the leader of the group and went to search for centaur allies. It meant Percy suddenly had to take charge of forty campers." },
@@ -1247,7 +1247,7 @@ const percyJackson: Series = {
         {
           id: "ch-10",
           number: 10,
-          title: "Defending the City, Bridge by Bridge",
+          title: "I Buy Some New Friends",
           listenFor: "Listen for the clever bargain Percy makes with two powerful river gods to help stop the invasion.",
           questions: [
             { q: "What special item did Annabeth use to scout Kronos's approaching forces?", a: "She used a bronze video shield, a Daedalus invention built by Beckendorf, which could show any sunlit or moonlit place in the world. It let them spot monster armies crossing bridges, tunnels, and even the Staten Island Ferry." },
@@ -1260,7 +1260,7 @@ const percyJackson: Series = {
         {
           id: "ch-11",
           number: 11,
-          title: "The Battle for the Bridge",
+          title: "We Break a Bridge",
           listenFor: "Listen for the mysterious moment when Annabeth jumps in front of a blow meant just for Percy -- how did she know exactly where to block?",
           questions: [
             { q: "How did Percy finally defeat the Minotaur?", a: "After the Minotaur hurled a limousine and nearly crushed their pegasi, Percy walked out to duel him alone, sliced his axe in half, cut off his horns, and threw him off the bridge to be destroyed. It was a rematch against the very first monster Percy ever fought." },
@@ -1273,7 +1273,7 @@ const percyJackson: Series = {
         {
           id: "ch-12",
           number: 12,
-          title: "Secrets and a New Mystery",
+          title: "Rachel Makes a Bad Deal",
           listenFor: "Listen for the secret Percy finally tells Annabeth out loud, and the strange new power Rachel discovers she has.",
           questions: [
             { q: "What did Percy finally tell Annabeth clearly in this chapter?", a: "He openly confirmed that his one vulnerable spot is the small of his back, the exact place someone had tried to strike during the bridge battle. Annabeth admitted she just had a strong feeling something bad was about to happen to him." },
@@ -1286,7 +1286,7 @@ const percyJackson: Series = {
         {
           id: "ch-13",
           number: 13,
-          title: "A Titan's Tricky Offer",
+          title: "A Titan Brings Me a Present",
           listenFor: "Listen for the strange gift the Titan Prometheus gives Percy -- and what he says is hidden inside it.",
           questions: [
             { q: "Who arrived under a truce flag to speak with Percy, and what deal did he offer?", a: "Prometheus, the Titan famous for giving fire to humanity, arrived to offer a deal: if the campers surrendered, Kronos would spare New York and let them live, while Typhon finished off the weakened gods. Percy refused the offer completely." },
@@ -1299,7 +1299,7 @@ const percyJackson: Series = {
         {
           id: "ch-14",
           number: 14,
-          title: "A Titan Turned into a Tree",
+          title: "Pigs Fly",
           listenFor: "Listen for the clever trick Grover and the satyrs use to stop a powerful Titan in his tracks.",
           questions: [
             { q: "Where did the next big battle take place, and who did Percy face there?", a: "The battle moved to the Central Park Reservoir, where Percy faced off against Hyperion, a powerful Titan who could walk on water, while the two armies clashed all around them. Percy summoned a personal hurricane to help fight back." },
@@ -1312,7 +1312,7 @@ const percyJackson: Series = {
         {
           id: "ch-15",
           number: 15,
-          title: "The Party Ponies Arrive",
+          title: "Chiron Throws a Party",
           listenFor: "Listen for the surprising warning Dionysus gives Percy about how much more powerful Kronos could still become.",
           questions: [
             { q: "Who arrived just in time to help push back Kronos's army in Midtown?", a: "Chiron arrived leading an army of centaurs nicknamed the \"Party Ponies,\" armed with paintball guns loaded with Celestial bronze paint. About five hundred centaurs answered his call from all over the country." },
@@ -1325,7 +1325,7 @@ const percyJackson: Series = {
         {
           id: "ch-16",
           number: 16,
-          title: "The Dragon and a Shocking Face",
+          title: "We Get Help from a Thief",
           listenFor: "Listen for the mysterious warning Rachel gives Percy, and the shocking face they find under a fallen fighter's helmet.",
           questions: [
             { q: "How did Annabeth manage to land the out-of-control helicopter safely?", a: "She jumped aboard and, using knowledge from her father's love of aviation and Daedalus's old notes, guided it down to a safe landing on Fifth Avenue, even though Guido the pegasus was hurt helping in the rescue. It was a tense, risky landing." },
@@ -1338,7 +1338,7 @@ const percyJackson: Series = {
         {
           id: "ch-17",
           number: 17,
-          title: "Silena's Secret and a Call for Help",
+          title: "I Sit on the Hot Seat",
           listenFor: "Listen for the sad secret Silena reveals as she says goodbye, and the big favor Percy asks his father from Poseidon's own throne.",
           questions: [
             { q: "What secret did Silena Beauregard reveal as she lay dying?", a: "She confessed that she had been the camp spy all along, showing a silver bracelet with Kronos's scythe symbol, explaining that Luke had once charmed her and then threatened her into helping him. She died moments later, her last thoughts on seeing Beckendorf again." },
@@ -1351,7 +1351,7 @@ const percyJackson: Series = {
         {
           id: "ch-18",
           number: 18,
-          title: "Parents to the Rescue",
+          title: "My Parents Go Commando",
           listenFor: "Listen for the surprising way Percy's mom and stepdad prove they can fight monsters too.",
           questions: [
             { q: "What happened to Chiron during his stand against Kronos?", a: "After bravely killing an enemy dracaena queen, Chiron was blasted by Kronos's scythe and buried under rubble from a collapsed building. His fate was left uncertain as the fight continued." },
@@ -1364,7 +1364,7 @@ const percyJackson: Series = {
         {
           id: "ch-19",
           number: 19,
-          title: "The Final Battle on Olympus",
+          title: "We Trash the Eternal City",
           listenFor: "Listen closely for the one choice Percy makes that finally brings the whole war to an end -- and who has to make an even harder choice beside him.",
           questions: [
             { q: "How did Percy briefly get the upper hand against Kronos in the throne room?", a: "He tricked Kronos into sitting on Hephaestus's throne, which switched into \"defense mode\" and shocked him with electricity. It bought Percy and his friends a little time in an incredibly tough fight." },
@@ -1377,7 +1377,7 @@ const percyJackson: Series = {
         {
           id: "ch-20",
           number: 20,
-          title: "Rewards on Mount Olympus",
+          title: "We Win Fabulous Prizes",
           listenFor: "Listen for the surprising reward Percy turns down, and the wish he asks for instead.",
           questions: [
             { q: "How did Percy finally understand what the prophecy's \"cursed blade\" line meant?", a: "He realized it meant Luke sacrificing himself using Annabeth's own knife, and that focusing on his feelings for Annabeth was what had helped Luke resist dissolving completely back at the River Styx. It made the old prophecy's meaning click into place." },
@@ -1390,7 +1390,7 @@ const percyJackson: Series = {
         {
           id: "ch-21",
           number: 21,
-          title: "A Warning and a Stolen Pegasus",
+          title: "Blackjack Gets Jacked",
           listenFor: "Listen for the surprising news about Kronos, and the strange thing Rachel does at the very end of the chapter.",
           questions: [
             { q: "What did Hermes reveal about Kronos's true fate after the battle?", a: "He explained that Kronos wasn't actually destroyed, just scattered into dust, warning Percy not to mistake that for truly dead. It was an unsettling reminder that the danger might not be completely over." },
@@ -1403,7 +1403,7 @@ const percyJackson: Series = {
         {
           id: "ch-22",
           number: 22,
-          title: "A New Oracle and a Birthday Surprise",
+          title: "I Am Dumped",
           listenFor: "Listen for the brand-new prophecy Rachel speaks for the very first time, and the surprising thing about Percy's birthday.",
           questions: [
             { q: "How did Percy, Annabeth, and Nico rush to catch up with Rachel?", a: "Percy summoned hippocampi, including his old friend Rainbow, and they rode them up the East River and Long Island Sound all the way to camp. It was a fast, unusual way to travel." },
@@ -1416,7 +1416,7 @@ const percyJackson: Series = {
         {
           id: "ch-23",
           number: 23,
-          title: "Saying Goodbye for the Summer",
+          title: "We Say Good-bye, Sort Of",
           listenFor: "Listen for what Percy and Annabeth decide about staying close to each other during the school year, and how the book ends.",
           questions: [
             { q: "How was Camp Half-Blood changing by the end of the summer?", a: "New cabins were being built for gods like Hades, Iris, Nemesis, and Hecate, and the Hermes cabin was much less crowded since unclaimed kids were finally being recognized by their godly parents. It was a hopeful sign of real change." },
