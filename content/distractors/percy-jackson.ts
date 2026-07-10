@@ -93,7 +93,7 @@ const percyJacksonDistractors: DistractorMap = {
     ["He would lend them his flying chariot to travel west faster than on foot.", "He would personally escort them through monster territory safely."],
     ["A nest of fire ants that Hephaestus had enchanted to guard his tools.", "A flood trap — Hephaestus had rigged the waterslides to drown intruders."],
     ["The body of Ares's shield polisher, who had accidentally left it behind.", "A secret message from Hephaestus hidden inside a hollow suit of armour."],
-    ["Kronos himself had magically placed it there in Ares's absence.", "Grover had accidentally picked it up when Ares wasn't looking and hidden it."],
+    ["It smelled strongly of burning metal, like a blacksmith's forge.", "It hummed faintly, as though something inside it were vibrating."],
   ],
 
   "pj-01-ch-12": [
@@ -173,7 +173,7 @@ const percyJacksonDistractors: DistractorMap = {
   "pj-02-ch-01": [
     ["Visions of Annabeth trapped inside a giant mirror crying for help.", "Nightmares about Olympus crumbling while all the gods stood watching."],
     ["An unusually quiet kid who never spoke and always sat alone.", "A new student who moved every few weeks and had no records at all."],
-    ["Every school he attended burned down within a month of him arriving.", "Every teacher secretly tried to recruit him for a special government programme."],
+    ["It had been the most dangerous year yet — monsters attacked him almost every week.", "He had already been kicked out of two other schools before this one, same as always."],
     ["He let Tyson copy his homework so the teachers wouldn't punish him.", "He reported the bullying to the school counsellor on Tyson's behalf."],
     ["A group of older students surrounded them in the corridor after class.", "A fire alarm pulled by one of the bullies trapped everyone in the gym."],
   ],
@@ -231,15 +231,15 @@ const percyJacksonDistractors: DistractorMap = {
     ["Sailing straight through the middle while moving as fast as possible.", "Turning back and finding a longer route around the outside of both monsters."],
     ["He leaped onto Charybdis's back and stabbed her until she released the ship.", "He threw the anchor into the whirlpool's centre to disrupt its spinning."],
     ["He dog-paddled to shore and waited on a nearby beach until they came back.", "He grabbed a floating plank and rode the current until it carried him to safety."],
-    ["His father Poseidon personally guided their ship through the strait.", "Percy turned himself into a current of water and steered the ship from below."],
+    ["They turned the ship around and sailed straight back to Camp Half-Blood.", "They gave up the quest completely, convinced it had become too dangerous to continue."],
   ],
 
   "pj-02-ch-09": [
+    ["He had been secretly hiding on the island the whole time, avoiding them on purpose.", "He had washed up much later, after Percy and Annabeth had already entered the cave."],
     ["The Cyclops had found him wandering in the sea and locked him up for fun.", "He had followed a trail he thought led to Pan and ended up in the cave."],
     ["Annabeth created a diversion by setting Polyphemus's sheep on fire.", "Percy knocked out the cave's door boulder with a blast of sea water."],
     ["He told the Cyclops his name was 'Someone' so Polyphemus would blame no one.", "He called himself 'The Invisible One' and hid behind Polyphemus's largest sheep."],
-    ["Tyson held Polyphemus down so Percy could pull it free from the tree.", "The Fleece fell off the tree during the chaos of the fight and landed near them."],
-    ["He created a massive wave from the sea and washed Polyphemus away.", "He challenged Polyphemus to a shouting contest and then escaped during the noise."],
+    ["Annabeth distracted Polyphemus with fake gold coins while the others slipped past.", "Percy trapped Polyphemus's foot under a boulder so he couldn't give chase."],
   ],
 
   "pj-02-ch-10": [
