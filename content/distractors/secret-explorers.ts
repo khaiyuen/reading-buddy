@@ -4,240 +4,240 @@ const secretExplorersDistractors: DistractorMap = {
   // The Secret Explorers and the Lost Whales
   "se-01": [
     [
-      "A pod of dolphins had swum too far from shore and needed the explorers to guide them home.",
-      "A family of blue whales had become tangled in fishing nets near a busy shipping lane.",
+      "A family of blue whales had become tangled in an abandoned fishing net near a busy shipping lane, and rescuers couldn't free them alone.",
+      "A pod of dolphins had swum far from shore chasing a shoal of fish and couldn't find their way back home again.",
     ],
     [
-      "A huge storm was pushing the whales off course and the explorers had to outrun it.",
-      "The whales were fighting over territory with another pod and the explorers had to separate them.",
+      "A huge undersea earthquake had shifted the ocean floor, and the explorers had to reroute the whales around the new hazard.",
+      "The whales were fighting over feeding territory with a rival pod, and the explorers had to calm things down before anyone got hurt.",
     ],
     [
-      "They played recordings of whale songs through underwater speakers to call the whales toward the right direction.",
-      "They spread a trail of the whales' favourite food to lead them toward deeper, safer water.",
+      "They played recordings of whale songs through underwater speakers, calling the whales toward open water and away from the reef.",
+      "They spread a long trail of the whales' favourite krill across the seabed, slowly luring the whole confused pod back toward deeper, safer currents.",
     ],
     [
-      "They found that a large school of fish had blocked the whales' usual route, confusing their sense of direction.",
-      "They discovered that a recent oil spill had damaged the coral reef the whales normally used as a landmark.",
+      "They found that a large fishing fleet had crossed right through the whales' usual migration route, throwing off their sense of direction.",
+      "They discovered that a recent oil spill had damaged the coral landmark the whales normally used to navigate along the coast.",
     ],
     [
-      "The whales found a new feeding ground far out at sea, and the explorers watched them dive deep before heading home.",
-      "The whales joined up with another pod and continued their migration together, while the explorers tracked them from above.",
+      "The whales found a new feeding ground far out at sea, and the explorers watched from the submarine as they dove deep and swam on.",
+      "The whales joined another pod passing through the area and continued their migration together, escorted partway by the explorers.",
     ],
   ],
 
   // The Secret Explorers and the Jurassic Rescue
   "se-02": [
     [
-      "The Beeper called them to the Jurassic period because a dinosaur egg had been stolen and needed to be returned.",
-      "A glitch in the Exploration Station's time maps had accidentally sent a creature to the wrong era.",
+      "A glitch in the Exploration Station's time maps had accidentally sent a young dinosaur forward into completely the wrong era.",
+      "The Beeper detected a rare dinosaur egg had gone missing from its nest and needed to be located and returned safely.",
     ],
     [
-      "A pack of large predators had cornered a group of smaller plant-eating dinosaurs with nowhere to run.",
-      "A river had burst its banks and was slowly flooding the lowland valley where the young dinosaurs nested.",
+      "A river had burst its banks overnight and was slowly flooding the lowland valley where a herd of young dinosaurs had nested.",
+      "A pack of large predators had cornered a group of smaller plant-eating dinosaurs against a cliff with nowhere left to run.",
     ],
     [
-      "They built a raft from fallen trees and floated the smaller creatures downstream to higher, drier ground.",
-      "They made loud noises to drive the predators away so the smaller dinosaurs could escape through the forest.",
+      "They built a raft from fallen tree trunks and floated the smaller, frightened creatures downstream toward higher, drier ground.",
+      "They made loud noises and waved bright torches to drive the predators away long enough for the herd to escape into the trees.",
     ],
     [
-      "They found out that some dinosaurs were much faster runners than scientists had previously believed.",
-      "They discovered that certain Jurassic plants could only grow in very specific conditions, making the habitat extremely fragile.",
+      "They found out that some long-necked dinosaurs could swim much better than scientists back home had ever guessed.",
+      "They discovered that certain Jurassic ferns only grew near riverbanks, which made that part of the habitat especially fragile.",
     ],
     [
-      "The creatures found a safe clearing beyond the river, and the explorers watched them settle before leaping back to the present.",
-      "The animals hid inside a large cave until the danger had passed, and the explorers made sure the entrance was clear before leaving.",
+      "The creatures found a safe, dry clearing beyond the river, and the explorers watched them settle in before leaping back to the present.",
+      "The herd sheltered inside a wide limestone cave until the flood passed, and the explorers checked the entrance was clear before leaving.",
     ],
   ],
 
   // The Secret Explorers and the Sunken Ship
   "se-03": [
     [
-      "A fisherman had reported a strange glow coming from deep underwater, and the mission was to investigate the source.",
-      "Scientists had detected unusual readings near an old wreck, and the explorers were sent to find out what was causing them.",
+      "Scientists had picked up unusual sonar readings near an old wreck, and the explorers were sent down to find out what was causing them.",
+      "A local fisherman had reported a strange glow rising from the seabed at night, and the mission was to track down where it was coming from.",
     ],
     [
-      "Strong underwater currents kept pushing them away from the wreck every time they tried to get close.",
-      "The ship had been down so long that coral and sea creatures had built a maze of tunnels all through its hull.",
+      "The ship had been down so long that coral and sea creatures had grown into a maze of tunnels running all through its rusted hull.",
+      "Strong underwater currents kept sweeping them away from the wreck every time they tried to swim in close.",
     ],
     [
-      "They tied a safety rope to the outside of the wreck so they could always find their way back to the submarine.",
-      "They drew a quick map of the corridors they had already checked so they wouldn't get lost exploring the same passages twice.",
+      "They drew a quick map of every corridor they had already searched so they wouldn't get lost exploring the same passage twice.",
+      "They tied a long safety line to the wreck's railing so they could always find their way back to the waiting submarine.",
     ],
     [
-      "They found an ancient compass that still pointed north after hundreds of years at the bottom of the sea.",
-      "They uncovered a sealed chest that contained a logbook describing the ship's final voyage in detail.",
+      "They uncovered a sealed chest below deck that held a captain's logbook describing the ship's final, stormy voyage in detail.",
+      "They found an old brass compass that still pointed north perfectly after hundreds of years resting on the ocean floor.",
     ],
     [
-      "They brought up photographs of the wreck and shared them with a museum that had been searching for the ship for years.",
-      "They carefully tagged the most important artefacts so a future diving team could recover them safely.",
+      "They carefully tagged the ship's most important artefacts so a future diving team could return and recover them safely.",
+      "They brought up photographs of the wreck and shared them with a museum that had been searching for the ship for decades.",
     ],
   ],
 
   // The Secret Explorers and the Comet Collision
   "se-04": [
     [
-      "A satellite had picked up an unknown signal coming from deep space, and the explorers were sent to find its source.",
-      "A meteor shower was scattering debris across the solar system and blocking the path of an important space telescope.",
+      "A meteor shower was scattering debris across the solar system, blocking the path of an important orbiting space telescope.",
+      "A satellite had picked up a strange signal from deep space, and the explorers were launched at once to trace where it came from.",
     ],
     [
+      "The comet was wrapped in a thick cloud of ice and dust that made it almost impossible to see exactly where they were flying.",
       "Their spacecraft kept losing power because the comet's tail was full of charged particles that interfered with the engines.",
-      "The comet was surrounded by a cloud of ice and dust that made it almost impossible to see where they were going.",
     ],
     [
-      "They fired a small rocket attached to the comet's surface to nudge it just enough to change its direction.",
-      "They used a powerful laser beam from the spacecraft to heat one side of the comet and push it off course.",
+      "They used a powerful laser mounted on the spacecraft to heat one side of the comet just enough to gently push it off course.",
+      "They fired a small thruster attached to the comet's surface, nudging it slowly onto a safer path away from the planet.",
     ],
     [
-      "They found that comets carry water ice that could have helped bring the first oceans to planets like Earth.",
-      "They discovered that the comet had a solid rocky core much larger than scientists had estimated from Earth.",
+      "They discovered the comet had a solid rocky core much larger than anything scientists back on Earth had ever measured.",
+      "They found that comets carry frozen water that may have helped bring the very first oceans to young planets like Earth.",
     ],
     [
-      "The comet shot safely past the planet and continued out toward the edge of the solar system, where it would travel for thousands of years.",
-      "The comet broke into smaller pieces that burned up harmlessly in the atmosphere, lighting up the night sky like a fireworks display.",
+      "The comet broke apart into smaller pieces that burned up harmlessly in the atmosphere, lighting the night sky like fireworks.",
+      "The comet sailed safely past the planet and continued on toward the edge of the solar system, journeying on for centuries.",
     ],
   ],
 
   // The Secret Explorers and the Volcanic Eruption
   "se-05": [
     [
-      "Villagers living near the volcano had reported that the river running down its side had turned an unusual colour.",
-      "A scientist stationed on the volcano had gone silent, and the mission was to check that she was safe.",
+      "A scientist stationed on the volcano's slope had suddenly gone silent, and the mission was to check that she was safe.",
+      "Villagers near the base of the volcano had reported that the river running down its side had turned a strange, cloudy colour.",
     ],
     [
-      "The ash cloud was spreading so fast that it was getting harder to breathe and see where they were going.",
-      "The lava was flowing in two directions at once, cutting off the paths they had planned to use as escape routes.",
+      "The lava had begun flowing in two directions at once, cutting off both of the escape routes the explorers had originally planned.",
+      "A thick ash cloud spread fast overhead, making it harder and harder to breathe or even see the trail ahead of them.",
     ],
     [
-      "They set up a chain of bright flags along the safest trail so animals and people could follow the route to safety.",
-      "They used their drone to scout ahead and look for any animals still trapped on the hillside before the lava reached them.",
+      "They flew their drone ahead to scout the hillside, searching for any animals still trapped before the lava could reach them.",
+      "They set up a line of bright flags along the safest trail so animals and villagers could follow it down to safety.",
     ],
     [
-      "They discovered that tiny earthquakes happening deep underground are one of the first signs a volcano is waking up.",
-      "They learned that the lava coming from this type of volcano was moving faster than most, giving them even less time to act.",
+      "They learned that this particular volcano's lava moved unusually fast, giving everyone nearby even less time to escape than normal.",
+      "They discovered that tiny earthquakes deep underground are often one of the very first signs that a volcano is waking up.",
     ],
     [
-      "A few stubborn animals hid and had to be carried out, but everyone made it clear just as the first lava reached the forest edge.",
-      "The eruption turned out to be smaller than expected, but the explorers still stayed to make sure all the animals had moved to safety.",
+      "The eruption turned out smaller than feared, but the explorers stayed anyway until every last animal had reached safe ground.",
+      "A few stubborn animals had to be carried out by hand, but everyone escaped just as the first lava reached the forest edge.",
     ],
   ],
 
   // The Secret Explorers and the Scientists' Race
   "se-06": [
     [
-      "Another team of researchers had set off for the same remote location, and only the first to arrive could carry out the experiment.",
-      "A rare natural event — like a total solar eclipse — was only going to happen once, and they had to be in position in time.",
+      "A rare total solar eclipse was going to happen only once in that exact spot, and they needed to be in position long before it began.",
+      "A rival team of researchers had set off for the same remote valley, and only whoever arrived first could run the experiment.",
     ],
     [
-      "Their vehicle broke down in the middle of a vast, empty landscape and they had to repair it without any spare parts.",
-      "They took a wrong turn through a dense forest and lost almost an hour doubling back to find the correct path.",
+      "Their vehicle broke down in the middle of an empty stretch of desert, and they had to repair it without a single spare part.",
+      "They took a wrong turn through dense woodland and lost almost an hour doubling back to find the right trail again.",
     ],
     [
-      "They split into two smaller groups so one could tackle the obstacle while the other kept moving toward the goal.",
-      "One explorer stayed behind to fix the problem while the others pressed on, and then caught up as fast as she could.",
+      "One explorer stayed behind to fix the broken equipment while the others pressed on ahead, catching up again as soon as she could.",
+      "They split into two smaller teams so one group could tackle the obstacle while the other kept racing toward the goal.",
     ],
     [
-      "They reached a crater lake that no scientist had visited in decades and recorded new data about its unusual chemistry.",
-      "They found a species of plant that only grows in one tiny valley on Earth, and collected samples to bring back for study.",
+      "They found a rare plant that grows in only one narrow valley on the entire planet and collected samples to study back home.",
+      "They reached a hidden crater lake that no scientist had visited in decades and carefully recorded brand-new data about its strange, shifting chemistry.",
     ],
     [
-      "They arrived just moments before the other team, but the two groups agreed to share their findings with each other.",
-      "The other team had to turn back due to bad weather, so the explorers completed their mission and recorded everything carefully.",
+      "The rival team had to turn back because of sudden bad weather, letting the explorers finish the mission and record every detail carefully.",
+      "The explorers arrived only moments ahead of the other team, and afterward both groups agreed to share their findings with each other.",
     ],
   ],
 
   // The Secret Explorers and the Rainforest Rangers
   "se-07": [
     [
-      "A local ranger had spotted unknown footprints near the river, and the mission was to identify which creature had made them.",
-      "Heavy rains had caused a landslide that buried part of an important wildlife corridor the animals depended on.",
+      "Heavy rains had triggered a landslide that buried part of the wildlife corridor the rainforest's animals depended on to travel safely.",
+      "A local ranger had spotted strange, unfamiliar footprints near the river and asked the explorers to identify which creature made them.",
     ],
     [
-      "The tree canopy was so thick that their communication devices kept losing signal, making it hard to stay in contact.",
-      "Many of the animals were nocturnal and only came out at night, so the explorers had to work in the dark to observe them.",
+      "Many of the animals were nocturnal and only came out after dark, forcing the explorers to work through the night to observe them.",
+      "The tree canopy overhead was so thick and tangled that their communication devices kept losing signal every few minutes.",
     ],
     [
-      "They set up hidden cameras along the forest trails to capture proof of what was happening without disturbing the animals.",
-      "They collected soil and plant samples to show that the damage being done would take decades to heal naturally.",
+      "They collected soil and plant samples proving that the damage already done would take decades for the forest to heal naturally.",
+      "They set up hidden cameras along the animal trails to quietly capture proof of what was happening without disturbing the wildlife.",
     ],
     [
-      "They found that a single giant tree can be home to hundreds of different insects, birds, and plants all at the same time.",
-      "They learned that some rainforest plants only release their seeds when eaten by one specific type of animal, making each species vital.",
+      "They learned that certain rainforest plants only release their seeds once eaten by one particular animal, making that species vital to the forest.",
+      "They found that a single giant tree can be home to hundreds of different insects, birds, and smaller plants all living together at once.",
     ],
     [
-      "The authorities stepped in to protect the area, and the explorers planted new seedlings before they left to help the forest recover.",
-      "The logging machines were moved away from the most sensitive zone, and the animals slowly began returning to their favourite trees.",
+      "The logging machines were moved out of the most sensitive zone, and the animals slowly began returning to their favourite feeding trees.",
+      "The authorities stepped in to protect the whole area, and the explorers planted new seedlings before leaving to help the forest recover.",
     ],
   ],
 
   // The Secret Explorers and the Missing Mammals
   "se-08": [
     [
-      "A herd of elephants had walked far outside the boundaries of the wildlife reserve and nobody knew why.",
-      "Several rare snow leopards had vanished from a mountain range where researchers had been studying them for years.",
+      "Several rare snow leopards had vanished without a trace from a mountain range researchers had been carefully studying for years.",
+      "A herd of elephants had wandered far outside the boundaries of the wildlife reserve, and nobody could explain why.",
     ],
     [
-      "Overnight rain had washed away most of the tracks, so the explorers could only find tiny fragments of evidence.",
-      "The terrain was so rocky and steep that their tracking equipment kept giving unreliable readings.",
+      "The terrain was so steep and rocky that their tracking equipment kept giving unreliable, confusing readings the whole way.",
+      "Overnight rain had washed away almost every track along the trail, leaving the explorers with only a few tiny fragments of evidence to work from.",
     ],
     [
-      "They set up motion-sensor cameras at the spots where the animals had last been seen to try to capture new footage.",
-      "They asked herders living nearby whether they had spotted any of the animals passing through their land recently.",
+      "They asked herders living nearby whether they had spotted any of the missing animals passing through their land recently.",
+      "They set up several motion-sensor cameras at the last spot the animals had been seen, hoping the devices would capture fresh footage overnight.",
     ],
     [
-      "They found that a new road had cut straight through the animals' usual route between their feeding and resting areas.",
-      "They discovered that a nearby water source had dried up, forcing the whole group to travel much farther than usual to drink.",
+      "They discovered a nearby water source had dried up completely, forcing the whole herd to travel much farther than usual just to drink.",
+      "They found that a new road had been cut straight through the animals' usual route between their feeding and resting grounds.",
     ],
     [
-      "The mammals had settled in a quieter valley nearby, and the explorers helped set up a protected corridor between the two areas.",
-      "The animals were found sheltering in a forested gully and were healthy, so the explorers marked the area for future monitoring.",
+      "The animals turned up sheltering in a forested gully, all healthy, and the explorers marked the area for ongoing future monitoring.",
+      "The mammals had settled into a quieter valley nearby, and the explorers helped rangers set up a permanent protected corridor linking the two grazing areas.",
     ],
   ],
 
   // The Secret Explorers and the Tomb of Secrets
   "se-09": [
     [
-      "A sandstorm had uncovered the entrance to a tomb that had been buried for thousands of years, and local archaeologists needed help.",
-      "Someone had been spotted near an ancient site trying to remove artefacts illegally, and the explorers had to get there first.",
+      "Someone had been spotted near the ancient site trying to remove artefacts illegally, and the explorers raced to get there before any harm was done.",
+      "A sudden sandstorm had uncovered the entrance to a tomb buried for thousands of years, and local archaeologists asked for help.",
     ],
     [
-      "The walls were covered in strange symbols that needed to be decoded before they could figure out which passages were safe.",
-      "Parts of the ceiling kept crumbling, and they had to move quickly through certain chambers before more stones fell.",
+      "Parts of the ceiling kept crumbling as they moved, forcing them to hurry through certain chambers before more stones could fall.",
+      "The walls were covered in strange carved symbols that had to be decoded before they could tell which passages were even safe.",
     ],
     [
-      "One explorer used her knowledge of ancient languages to translate the inscriptions and work out which doors were safe to open.",
-      "They took turns carefully testing each stone tile before putting their full weight on it, moving through the chamber inch by inch.",
+      "They took turns carefully testing each stone tile before trusting it with their full weight, moving slowly through the chamber inch by inch.",
+      "One explorer used her knowledge of ancient languages to translate the wall inscriptions and figure out which doors were safe to open.",
     ],
     [
-      "They uncovered a star map carved into the wall that showed how an ancient civilisation tracked the movements of the planets.",
-      "They found a sealed jar containing seeds from plants that no longer exist anywhere else in the world.",
+      "They found a sealed clay jar containing seeds from a plant that no longer exists anywhere else in the world today.",
+      "They uncovered a star map carved into the stone wall, showing how an ancient civilisation once tracked the movement of the planets.",
     ],
     [
-      "They sealed the tomb entrance behind them to keep it safe until a proper archaeological team could arrive and excavate it properly.",
-      "They photographed everything inside and sent the images to a museum before carefully replacing the artefacts exactly where they had found them.",
+      "They photographed everything inside and sent the images to a museum before carefully placing each artefact back exactly where it was found.",
+      "They sealed the tomb entrance behind them to keep it safe until a proper archaeological team could arrive and excavate it fully.",
     ],
   ],
 
   // The Secret Explorers and the Ancient Library
   "se-10": [
     [
-      "A scholar had found a single page from the library in a distant city and the mission was to track down where the rest of it was.",
-      "Rumours of a hidden room beneath an ancient building had drawn treasure hunters to the site, putting it at risk.",
+      "Rumours of a hidden chamber beneath the ancient building had drawn treasure hunters to the site, putting the whole library's collection at risk.",
+      "A scholar had found a single loose page from the library in a distant city and needed help tracking down the rest of it.",
     ],
     [
-      "A flood was rising outside and the water was already seeping through the lower walls toward the oldest scrolls.",
-      "Parts of the ceiling had collapsed, and the smoke and dust were making the fragile paper crumble whenever anyone moved near it.",
+      "Parts of the ceiling had already collapsed, and drifting smoke and dust were making the fragile old paper crumble at the slightest touch.",
+      "A flood was rising just outside, and water was already seeping through the lower walls toward the library's oldest scrolls.",
     ],
     [
-      "They wrapped the most delicate scrolls in protective cloth and moved them to the highest and driest shelf they could find.",
-      "They carefully photographed every page they could reach so the words would survive even if the originals were damaged.",
+      "They carefully photographed every page they could reach, so the words would survive even if the original scrolls were later damaged.",
+      "They wrapped the most delicate scrolls in protective cloth and carried them up to the driest, highest shelf they could find.",
     ],
     [
-      "The texts described a farming method that let ancient people grow crops in very dry soil without any irrigation system.",
-      "The scrolls contained detailed maps of trade routes that historians had always assumed were lost forever.",
+      "The scrolls held detailed maps of ancient trade routes that historians back home had always assumed were lost forever.",
+      "The texts described a clever farming method that once let people grow crops in very dry soil without any irrigation at all.",
     ],
     [
+      "They sealed the remaining books inside a large waterproof container and buried it safely, ready for future explorers to uncover one day.",
       "They handed the most important scrolls to a nearby university, where historians could study and translate them for years to come.",
-      "They sealed the remaining books inside a waterproof container and buried it safely so future explorers could find it again one day.",
     ],
   ],
 };
