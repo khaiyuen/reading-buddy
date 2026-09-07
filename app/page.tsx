@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import allSeries from "@/content";
 
@@ -15,7 +16,14 @@ export default function HomePage() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-center p-6 bg-amber-50">
       <div className="text-center mb-8">
-        <div className="text-6xl mb-3">📚</div>
+        <Image
+          src="/logo.svg"
+          alt=""
+          width={96}
+          height={96}
+          priority
+          className="mx-auto mb-3 rounded-[22px] shadow-md"
+        />
         <h1 className="text-4xl font-bold text-green-800 mb-2">Reading Buddy</h1>
         <p className="text-xl text-green-700">Pick a series to start!</p>
       </div>
