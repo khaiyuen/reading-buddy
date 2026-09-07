@@ -8,6 +8,7 @@ const kingdomOfWrenly: Series = {
     "Prince Lucas and his best friend Clara explore every corner of the magical kingdom of Wrenly — fairies, trolls, dragons, wizards, and mermaids included — solving problems and going on adventures together.",
   recommendedAge: "5-9",
   themeColor: "#6A1B9A",
+  finished: true,
   books: [
     {
       id: "kw-01",

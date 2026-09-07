@@ -27,5 +27,7 @@ export type Series = {
   description: string;
   recommendedAge: string;
   themeColor: string;
+  /** Set true once the reader has outgrown the series — collapses it on the home page. */
+  finished?: boolean;
   books: Book[];
 };

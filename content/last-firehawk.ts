@@ -8,6 +8,7 @@ const lastFirehawk: Series = {
     "Tag the owl and his best friend Skyla the squirrel raise Blaze, the last firehawk, and search for the pieces of the magical Ember Stone to save the land of Perodia from the evil vulture Thorn.",
   recommendedAge: "6-9",
   themeColor: "#E65100",
+  finished: true,
   books: [
     {
       id: "lf-01",

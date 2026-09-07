@@ -31,6 +31,23 @@ export default function HomePage() {
       <div className="flex flex-col gap-5 w-full max-w-md">
         {allSeries.map((series) => {
           const emoji = SERIES_EMOJI[series.id] ?? "📖";
+
+          // Series the reader has outgrown collapse to a single slim row,
+          // keeping their place in the easiest → hardest order.
+          if (series.finished) {
+            return (
+              <Link
+                key={series.id}
+                href={`/${series.id}`}
+                className="flex items-center gap-3 rounded-2xl px-4 py-3 text-white shadow opacity-60 active:scale-95 transition-transform"
+                style={{ backgroundColor: series.themeColor }}
+              >
+                <span className="text-2xl leading-none">{emoji}</span>
+                <span className="font-bold leading-tight min-w-0">{series.title}</span>
+              </Link>
+            );
+          }
+
           return (
             <Link
               key={series.id}

@@ -8,6 +8,7 @@ const dragonMasters: Series = {
     "Young Dragon Masters train and bond with their dragons at King Roland's castle.",
   recommendedAge: "6-9",
   themeColor: "#3a7d44",
+  finished: true,
   books: [
     {
       id: "dm-01",
