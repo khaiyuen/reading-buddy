@@ -1,12 +1,19 @@
 import { Series } from "./types";
 
+// Titles, numbering and facts verified against DK/Penguin Random House and each book's own
+// printed table of contents and term index. See content/research/secret-explorers.md.
+// Questions stay at "setup level" on purpose: who goes, where, what the problem is, what the
+// book teaches. No online source describes how these books end, so asking about endings would
+// mean inventing — see CONTENT_GUIDELINES.md rules 1 and 3.
+// verified: false marks a book where at least one answer rests on a weaker source.
+
 const secretExplorers: Series = {
   id: "secret-explorers",
   title: "The Secret Explorers",
   author: "SJ King",
   description:
-    "A team of kid explorers travel to amazing places — oceans, jungles, space — to solve problems and protect the planet.",
-  recommendedAge: "5-8",
+    "Eight kid experts are called through a glowing door to the Exploration Station, then ride the Beagle — a go-kart that changes shape — to fix a real problem somewhere on Earth, in space, or in the past.",
+  recommendedAge: "7-9",
   themeColor: "#00695c",
   books: [
     {
@@ -14,308 +21,432 @@ const secretExplorers: Series = {
       number: 1,
       title: "The Secret Explorers and the Lost Whales",
       color: "#1565c0",
-      verified: false,
+      verified: true,
       listenFor:
-        "Listen for why the whales are in danger and how the explorers work together to help them.",
+        "Listen for which two explorers get picked, and what has gone wrong for the whales.",
       questions: [
         {
-          q: "Why did the Secret Explorers get called on a mission in this book?",
-          a: "A group of humpback whales had become lost and were heading toward dangerous, shallow waters instead of their usual migration route.",
+          q: "Which two Secret Explorers were picked for this mission, and what is each one an expert in?",
+          a: "Connor, the marine life expert, and Roshni, the space expert, were the two chosen to go on the ocean mission together.",
         },
         {
-          q: "What was the main problem the explorers had to solve once they were in the ocean?",
-          a: "The whales were confused and couldn't find their way, and the explorers had to figure out why before the whales got stranded.",
+          q: "What had gone wrong for the humpback whales?",
+          a: "A whole pod of humpback whales had lost their migration route, so the explorers had to find a way to steer them back on track.",
         },
         {
-          q: "What did the explorers do to try to guide the whales back on the right path?",
-          a: "They used their submarine to carefully swim alongside the whales and guide them away from the danger and back toward the open ocean.",
+          q: "What did the Beagle turn into for this mission?",
+          a: "It changed into a submarine, so that Connor and Roshni could travel underwater and follow the whales through the ocean.",
         },
         {
-          q: "What did the explorers discover about why the whales had become lost?",
-          a: "They found that something in the environment — like pollution or noise — had disrupted the whales' ability to navigate properly.",
+          q: "What two problems got in the explorers' way while they searched?",
+          a: "They had to deal with a lost baby whale, which is called a calf, and a whole fleet of boats that got in the way.",
         },
         {
-          q: "How did the mission end for the whales and the explorers?",
-          a: "The whales were safely guided back to their migration route, and the explorers returned to the Exploration Station proud of what they had done.",
+          q: "What was Connor doing at home when the mission call came?",
+          a: "He was pond dipping, which means looking at the tiny creatures that live in pond water, when his compass badge glowed.",
         },
       ],
     },
     {
       id: "se-02",
       number: 2,
-      title: "The Secret Explorers and the Jurassic Rescue",
-      color: "#2e7d32",
-      verified: false,
+      title: "The Secret Explorers and the Comet Collision",
+      color: "#283593",
+      verified: true,
       listenFor:
-        "Listen for what goes wrong in the prehistoric world and how the explorers get the creatures to safety.",
+        "Listen for what the explorers have to fix in space, and how little time they have.",
       questions: [
         {
-          q: "What sent the explorers back to the time of the dinosaurs?",
-          a: "The Beeper called them on a mission to travel back in time to the Jurassic period, where something had put creatures in danger.",
+          q: "Which two Secret Explorers went on this mission, and what is each one an expert in?",
+          a: "Roshni, the space expert, and Ollie, the rainforest expert, were the two chosen to blast off on the space mission together.",
         },
         {
-          q: "What was the danger the prehistoric creatures were facing?",
-          a: "The creatures were in the path of a natural disaster — like a volcanic eruption or flooding — and couldn't escape on their own.",
+          q: "Where in space did this mission take them?",
+          a: "It took them out to the giant planet Jupiter and its moons, where they got a close-up look at Jupiter's swirling surface.",
         },
         {
-          q: "How did the explorers try to help the animals get to safety?",
-          a: "They worked together to find a way to lead or carry the creatures away from the danger before it was too late.",
+          q: "What job did the explorers have to finish before the comet arrived?",
+          a: "They had to repair a space probe called Odin, which was orbiting Jupiter, before pieces of the comet crashed into the planet.",
         },
         {
-          q: "What surprising thing did the explorers learn about the Jurassic world on their mission?",
-          a: "They discovered something about how those prehistoric creatures actually behaved or lived that was different from what most people expect.",
+          q: "What dangerous things did the explorers have to do during the mission?",
+          a: "They had to dodge asteroids flying through space, and go outside the spacecraft on a spacewalk while wearing spacesuits.",
         },
         {
-          q: "How did the story end, and what did the explorers feel when they got back?",
-          a: "The animals were saved and the explorers made it back safely, feeling amazed by everything they had seen in the ancient world.",
+          q: "What was Roshni doing at home when her compass badge began to glow?",
+          a: "She was stargazing, which means looking up at the night sky to study the stars and planets, when the mission call reached her.",
         },
       ],
     },
     {
       id: "se-03",
       number: 3,
-      title: "The Secret Explorers and the Sunken Ship",
-      color: "#00838f",
-      verified: false,
+      title: "The Secret Explorers and the Tomb Robbers",
+      color: "#8d6e63",
+      verified: true,
       listenFor:
-        "Listen for what the explorers find on the ocean floor and why it matters.",
+        "Listen for who the explorers are up against, and what they have to learn to read.",
       questions: [
         {
-          q: "Why did the explorers dive down to find a sunken ship?",
-          a: "Their mission sent them to the bottom of the ocean, where an old shipwreck held something important that needed to be found or protected.",
+          q: "Which two Secret Explorers went on this mission, and what is each one an expert in?",
+          a: "Gustavo, the history expert, and Kiki, the engineering expert, were the two chosen to travel back in time together.",
         },
         {
-          q: "What made exploring the sunken ship dangerous or difficult?",
-          a: "The wreck was deep underwater and could be unstable, and there were unexpected obstacles or creatures that made things tricky.",
+          q: "Where and when did this mission take place?",
+          a: "It took them back in time to ancient Egypt, to the days of Pharaoh Khufu, near the River Nile and the Great Pyramid.",
         },
         {
-          q: "What did the explorers do when they ran into trouble inside or near the wreck?",
-          a: "They used their knowledge and teamwork to navigate carefully and solve the problem without putting themselves or the ocean creatures at risk.",
+          q: "Who were the explorers up against on this mission?",
+          a: "They were up against a gang of thieves, called tomb robbers, who were stealing the treasures from a pharaoh's tomb.",
         },
         {
-          q: "What important thing did the explorers discover at or inside the sunken ship?",
-          a: "They found something — an object, a clue, or information — that turned out to be really significant for their mission.",
+          q: "What did Gustavo and Kiki have to learn to read, and where did they have to go?",
+          a: "They had to learn to read hieroglyphs, the picture writing of ancient Egypt, and they had to get inside the Great Pyramid.",
         },
         {
-          q: "How did everything work out by the end of the mission?",
-          a: "The explorers completed their goal and surfaced safely, having learned something new about ocean history or the creatures living near the wreck.",
+          q: "What was happening back in the present day that started this mission?",
+          a: "The Cairo Museum was in trouble and was about to close down, so the explorers were sent to ancient Egypt to help save it.",
         },
       ],
     },
     {
       id: "se-04",
       number: 4,
-      title: "The Secret Explorers and the Comet Collision",
-      color: "#4527a0",
-      verified: false,
+      title: "The Secret Explorers and the Jurassic Rescue",
+      color: "#2e7d32",
+      verified: true,
       listenFor:
-        "Listen for how the explorers try to stop a comet from causing a disaster.",
+        "Listen for which egg the explorers are trying to save, and which dinosaurs get in the way.",
       questions: [
         {
-          q: "What was the emergency that took the explorers into space on this mission?",
-          a: "A comet was on a collision course and could cause serious damage, so the explorers had to launch into space to deal with it.",
+          q: "Which two Secret Explorers went on this mission, and what is each one an expert in?",
+          a: "Tamiko, the dinosaur expert, and Cheng, the geology expert, were the two chosen to travel back to the time of the dinosaurs.",
         },
         {
-          q: "What made stopping the comet so hard?",
-          a: "Space is huge and comets move fast, so the explorers had a very short window of time to figure out a plan and carry it out.",
+          q: "When and where did this mission take the explorers?",
+          a: "It took them back in time about 150 million years, to the Jurassic period, when dinosaurs were living all over the Earth.",
         },
         {
-          q: "What plan did the explorers come up with to try to change the comet's path?",
-          a: "They worked together to use the equipment on their spacecraft to redirect or slow the comet before it could do any harm.",
+          q: "What was the main thing the explorers had to rescue?",
+          a: "They had to save an Archaeopteryx egg from being destroyed, and get it safely back to the nest it belonged in.",
         },
         {
-          q: "What did the explorers learn about comets during their mission?",
-          a: "They discovered interesting facts about what comets are made of and why they travel the paths they do through the solar system.",
+          q: "What three tricky things did Tamiko and Cheng have to do on the mission?",
+          a: "They had to outsmart a fierce Allosaurus, rescue a baby Stegosaurus, and find a clever way to attract an Archaeopteryx.",
         },
         {
-          q: "How did the mission end, and what happened to the comet?",
-          a: "The danger was averted and the comet was dealt with safely, letting the explorers head home knowing they had protected the planet.",
+          q: "What surprising fact does this book teach about dinosaurs and birds?",
+          a: "It explains that the birds flying around today really are dinosaurs, because birds come from a group of dinosaurs long ago.",
         },
       ],
     },
     {
       id: "se-05",
       number: 5,
-      title: "The Secret Explorers and the Volcanic Eruption",
-      color: "#bf360c",
-      verified: false,
+      title: "The Secret Explorers and the Rainforest Rangers",
+      color: "#1b5e20",
+      verified: true,
       listenFor:
-        "Listen for how the explorers race against time to save animals and people near the volcano.",
+        "Listen for the name of the lost baby animal, and the secret plan the explorers uncover.",
       questions: [
         {
-          q: "What sent the explorers rushing to a volcano at the start of this book?",
-          a: "A volcano was showing signs that it was about to erupt, putting nearby wildlife and communities in serious danger.",
+          q: "Which two Secret Explorers went on this mission, and what is each one an expert in?",
+          a: "Ollie, the rainforest expert, and Kiki, the engineering expert, were the two chosen to go on the rainforest mission together.",
         },
         {
-          q: "What was the biggest problem the explorers faced once they arrived?",
-          a: "They had very little time before the eruption, and they needed to figure out how to warn others and get animals out of the danger zone.",
+          q: "Where in the world did this mission take place?",
+          a: "It took them to the hot, steamy rainforest of Borneo, where they searched the thick trees and the nature reserve there.",
         },
         {
-          q: "How did the explorers try to help before the volcano blew?",
-          a: "They used their skills to monitor the volcano, warn the right people, and help guide animals away from the path of the lava and ash.",
+          q: "Which lost animal were the explorers looking for, and what was its name?",
+          a: "They were searching for a lost baby orangutan named Fig, a young ape who had gone missing in the rainforest.",
         },
         {
-          q: "What did the explorers find out about how volcanoes work or why they erupt?",
-          a: "They learned about the science beneath the surface — how pressure builds up and why some volcanoes give warning signs before they go off.",
+          q: "How did Ollie and Kiki travel over the rainforest to search?",
+          a: "They set out in a glider, which let them fly quietly above the treetops and look down over the huge rainforest canopy.",
         },
         {
-          q: "Did everyone and everything get to safety in the end?",
-          a: "Yes, the explorers managed to get animals and people out in time, and they escaped just as the volcano erupted behind them.",
+          q: "What secret plan did the explorers uncover while they searched?",
+          a: "They found that greedy plantation owners were plotting to destroy the forest to make their palm oil plantation bigger.",
         },
       ],
     },
     {
       id: "se-06",
       number: 6,
-      title: "The Secret Explorers and the Scientists' Race",
-      color: "#e65100",
-      verified: false,
+      title: "The Secret Explorers and the Smoking Volcano",
+      color: "#bf360c",
+      verified: true,
       listenFor:
-        "Listen for why the explorers are in a race and what they are trying to find first.",
+        "Listen for the name of the real volcano, and who needs to be rescued from it.",
       questions: [
         {
-          q: "Why did this mission feel like a race from the very beginning?",
-          a: "The explorers had to find or reach something important before others did — if they were too slow, the discovery or opportunity would be lost.",
+          q: "Which two Secret Explorers went on this mission, and what is each one an expert in?",
+          a: "Cheng, the geology and volcano expert, and Leah, the biology expert, were the two chosen to go to the volcano together.",
         },
         {
-          q: "What obstacle slowed the explorers down or made the race harder?",
-          a: "Things kept going wrong along the way — unexpected challenges or wrong turns — that cost them time and made them worried they'd lose.",
+          q: "Which real volcano did this mission take the explorers to, and where is it?",
+          a: "They went to Mount Yasur, a real active volcano on the island of Tanna, which is part of the country of Vanuatu.",
         },
         {
-          q: "How did the explorers push through when things got difficult?",
-          a: "They remembered to use each member's special skill and trust each other, which helped them get back on track faster than going it alone.",
+          q: "What went wrong once the explorers were on the island?",
+          a: "Some of their new friends went missing on the mountain, so the two explorers had to get them off it before it erupted again.",
         },
         {
-          q: "What was the important discovery or goal at the end of the race?",
-          a: "They reached their destination and found what they were looking for — a scientific breakthrough or a place that needed their help.",
+          q: "What was Cheng doing at the start of the story?",
+          a: "He was doing an exciting experiment with baking soda, because he was very keen to see how a real eruption works.",
         },
         {
-          q: "How did the story end — did the explorers win the race?",
-          a: "The explorers succeeded in their mission, and even though the race was tough, they finished knowing they had done something that really mattered.",
+          q: "What does this book explain about how a volcano like Mount Yasur works?",
+          a: "It explains that hot melted rock called magma pushes up through the Earth's crust where two tectonic plates meet.",
         },
       ],
     },
     {
       id: "se-07",
       number: 7,
-      title: "The Secret Explorers and the Rainforest Rangers",
-      color: "#1b5e20",
-      verified: false,
+      title: "The Secret Explorers and the Missing Scientist",
+      color: "#0277bd",
+      verified: true,
       listenFor:
-        "Listen for what is threatening the rainforest and how the explorers become its protectors.",
+        "Listen for what has trapped the ship, and which animal the explorers must watch out for.",
       questions: [
         {
-          q: "What brought the explorers into the rainforest on this mission?",
-          a: "Something was threatening the rainforest — like illegal logging or habitat destruction — and the animals living there were in danger.",
+          q: "Which two Secret Explorers went on this mission, and what is each one an expert in?",
+          a: "Kiki, the engineering expert, and Connor, the marine biology expert, were the two chosen to go to the Arctic together.",
         },
         {
-          q: "What made it hard for the explorers to help once they were deep in the jungle?",
-          a: "The rainforest is enormous and dense, making it difficult to track what was happening and find the source of the problem.",
+          q: "Where did this mission take the explorers?",
+          a: "It took them to the Arctic, the frozen place at the top of the world, where the sea itself freezes over into thick ice.",
         },
         {
-          q: "What did the explorers do to try to protect the rainforest and its creatures?",
-          a: "They gathered evidence and used their skills to document what was happening and alert the people who could stop the damage.",
+          q: "What did the explorers find when they arrived?",
+          a: "They found a research ship that was studying how climate change is warming the world, stuck fast in the frozen sea ice.",
         },
         {
-          q: "What did the explorers learn about the rainforest that surprised them?",
-          a: "They discovered just how many species depend on the rainforest and how everything in the ecosystem is connected to everything else.",
+          q: "Who was missing, and why had that person left the ship?",
+          a: "One of the ship's scientists had set off to a research station nearby to fetch help, and had not come back again.",
         },
         {
-          q: "How did the mission end, and what happened to the rainforest?",
-          a: "The threat was stopped or slowed down, and the explorers left knowing the forest and its animals had a better chance of surviving.",
+          q: "Which dangerous Arctic animal did the explorers have to watch out for?",
+          a: "They had to watch out for polar bears, and the book even has a chapter about it that is called “Beware polar bear”.",
         },
       ],
     },
     {
       id: "se-08",
       number: 8,
-      title: "The Secret Explorers and the Missing Mammals",
-      color: "#4e342e",
-      verified: false,
+      title: "The Secret Explorers and the Plant Poachers",
+      color: "#558b2f",
+      verified: true,
       listenFor:
-        "Listen for which animals have gone missing and what the explorers do to track them down.",
+        "Listen for which plant is in danger, and who is trying to steal it.",
       questions: [
         {
-          q: "Why were the explorers worried at the start of this mission?",
-          a: "A group of mammals had disappeared from their habitat, and nobody knew whether they had moved on or were in some kind of danger.",
+          q: "Which two Secret Explorers went on this mission, and what is each one an expert in?",
+          a: "Leah, the biology expert, and Gustavo, the history expert, were the two chosen to go on the woodland mission together.",
         },
         {
-          q: "What made finding the missing animals so difficult?",
-          a: "The animals had left no obvious trail, and the explorers had to search a wide area using clues and their knowledge of animal behaviour.",
+          q: "Where did this mission take the explorers?",
+          a: "It took them to a forest in North Carolina, in the United States, which is one of the places Venus flytraps grow wild.",
         },
         {
-          q: "What did the explorers try in order to track down where the animals had gone?",
-          a: "They followed tracks, used scientific tools, and talked to local experts to piece together a picture of where the animals might be.",
+          q: "Who did the explorers meet in the forest, and what was that person's job?",
+          a: "They met a botanist, which is a scientist who studies plants, and whose job was protecting the amazing Venus flytrap.",
         },
         {
-          q: "What did the explorers find out about why the mammals had disappeared?",
-          a: "They discovered that changes in the environment — like habitat loss or a shortage of food — had forced the animals to move somewhere new.",
+          q: "What were the poachers doing that the explorers had to stop?",
+          a: "The poachers were stealing the Venus flytraps, which are an endangered plant, so that they could sell them for money.",
         },
         {
-          q: "How did the mission wrap up — were the animals found and safe?",
-          a: "Yes, the explorers located the mammals and made sure they were okay, and they also worked to address the problem that had driven them away.",
+          q: "What is special about a Venus flytrap?",
+          a: "It is a plant that eats insects, and its leaf snaps shut when a bug touches the tiny trigger hairs growing inside it.",
         },
       ],
     },
     {
       id: "se-09",
       number: 9,
-      title: "The Secret Explorers and the Tomb of Secrets",
-      color: "#f57f17",
+      title: "The Secret Explorers and the Moon Mission",
+      color: "#37474f",
       verified: false,
       listenFor:
-        "Listen for what mystery is hidden inside the ancient tomb and how the explorers uncover it.",
+        "Listen for what goes wrong with the Beagle, and what the explorers have to pull out of a crater.",
       questions: [
         {
-          q: "What brought the explorers to an ancient tomb at the beginning of the story?",
-          a: "Their mission took them to an archaeological site where a long-sealed tomb contained secrets that needed to be uncovered and protected.",
+          q: "Which two Secret Explorers went on this mission, and what is each one an expert in?",
+          a: "Roshni, the space expert, and Cheng, the geology expert, were the two chosen to blast off to the Moon together.",
         },
         {
-          q: "What danger or difficulty did the explorers face inside the tomb?",
-          a: "The tomb was full of traps, puzzles, or unstable passages that made it risky to explore, and they had to be very careful with every step.",
+          q: "Where did this mission take the explorers?",
+          a: "It took them all the way to the Moon, where they bounced over the dusty, rocky ground in the Moon's very low gravity.",
         },
         {
-          q: "How did the explorers work together to get past the challenges inside?",
-          a: "Each explorer used their own area of knowledge — history, science, or problem-solving — to help the group figure out how to move safely forward.",
+          q: "What did the explorers use the space junk on the Moon for?",
+          a: "They used bits of old space junk left lying on the Moon as spare parts, to fix the Beagle after its landing damaged it.",
         },
         {
-          q: "What was the big secret or discovery waiting inside the tomb?",
-          a: "They found an artefact, a message, or information left behind by an ancient civilisation that helped them understand a mystery from the past.",
+          q: "What machine did the explorers have to rescue, and where was it?",
+          a: "They had to rescue a lunar rover, which is a robot car for driving on the Moon, that had got stuck down in a crater.",
         },
         {
-          q: "How did things end — did the explorers get out safely with what they found?",
-          a: "They made it out of the tomb safely and made sure the discovery was preserved properly so history wouldn't be lost.",
+          q: "What did Roshni and Cheng collect while they were on the Moon?",
+          a: "They collected important samples of moon rock, including kinds of rock called basalt and breccia, to bring back home.",
         },
       ],
     },
     {
       id: "se-10",
       number: 10,
-      title: "The Secret Explorers and the Ancient Library",
-      color: "#6d4c41",
+      title: "The Secret Explorers and the Ice Age Adventure",
+      color: "#78909c",
       verified: false,
       listenFor:
-        "Listen for what is special about the ancient library and why the explorers must protect its knowledge.",
+        "Listen for the boy the explorers meet, and which big animals roam the cold grassland.",
       questions: [
         {
-          q: "Why did the explorers travel to find an ancient library on this mission?",
-          a: "The library held incredibly old and important knowledge that was at risk of being lost forever, and the explorers had to get there in time.",
+          q: "Which two Secret Explorers went on this mission, and what is each one an expert in?",
+          a: "Tamiko, the dinosaur expert, and Ollie, the rainforest expert, were the two chosen to travel back to the Ice Age together.",
         },
         {
-          q: "What was threatening the ancient library or the knowledge inside it?",
-          a: "Something — like natural decay, a disaster, or someone trying to take the texts — meant the library's scrolls or books were in serious danger.",
+          q: "When and where did this mission take the explorers?",
+          a: "It took them back in time to the last Ice Age, onto the cold, open grassland that is known as the mammoth steppe.",
         },
         {
-          q: "What did the explorers do to try to save the knowledge in the library?",
-          a: "They worked quickly to preserve, copy, or protect what was inside, using their skills to handle the delicate materials carefully.",
+          q: "Which huge animals did the explorers find on the steppe?",
+          a: "They found woolly mammoths, shaggy elephant-like animals with long curved tusks, including a baby mammoth and its herd.",
         },
         {
-          q: "What surprising thing did the explorers learn from the ancient texts?",
-          a: "Hidden inside the library was knowledge about the world — science, history, or discoveries — that people today had completely forgotten about.",
+          q: "Who was the boy the explorers met on their mission?",
+          a: "They met a boy named Leaf, a child from the Ice Age, and Ollie used his tracking skills to help him out on the steppe.",
         },
         {
-          q: "How did the mission end, and was the library's knowledge saved?",
-          a: "The explorers succeeded in protecting the most important parts of the library's collection, making sure that ancient wisdom wouldn't be lost.",
+          q: "Which fierce hunters were a danger on this mission?",
+          a: "Cave lions were a danger, and the book has a chapter about them near the end that is called “Cave lion alert”.",
+        },
+      ],
+    },
+    {
+      id: "se-11",
+      number: 11,
+      title: "The Secret Explorers and the Haunted Castle",
+      color: "#4527a0",
+      verified: false,
+      listenFor:
+        "Listen for what the ghostly figure looks like, and what the castle is getting ready for.",
+      questions: [
+        {
+          q: "Which two Secret Explorers went on this mission, and what is each one an expert in?",
+          a: "Kiki, the engineering expert, and Gustavo, the history expert, were the two chosen to travel back to the past together.",
+        },
+        {
+          q: "Where and when did this mission take the explorers?",
+          a: "It took them back to the Middle Ages, to a medieval castle that was busy getting ready for a big jousting tournament.",
+        },
+        {
+          q: "What was frightening everybody at the castle?",
+          a: "A ghostly, glowing figure known as the Horned Knight kept appearing at the castle and terrifying the crowds of people.",
+        },
+        {
+          q: "What did the explorers find inside the castle that helped them investigate?",
+          a: "They found secret passages hidden inside the castle walls, which let them move around and follow up on the mystery.",
+        },
+        {
+          q: "What does this book explain about things that glow in the dark?",
+          a: "It explains bioluminescence, which is the word for living things, such as some kinds of fungus, that make their own glow.",
+        },
+      ],
+    },
+    {
+      id: "se-12",
+      number: 12,
+      title: "The Secret Explorers and the Desert Disappearance",
+      color: "#ef6c00",
+      verified: true,
+      listenFor:
+        "Listen for which young animals need rescuing, and what kind of storm gets in the way.",
+      questions: [
+        {
+          q: "Which two Secret Explorers went on this mission, and what is each one an expert in?",
+          a: "Leah, the biology expert, and Connor, the marine expert, were the two chosen to set off into the desert together.",
+        },
+        {
+          q: "Which desert did this mission take the explorers to?",
+          a: "It took them into the Chihuahuan Desert, a huge dry desert in Mexico, where they drove across it in a desert buggy.",
+        },
+        {
+          q: "Which young animals did the explorers have to rescue?",
+          a: "They had to rescue a pack of Mexican wolf cubs, which are young wolves whose numbers in the wild had dropped very low.",
+        },
+        {
+          q: "What kind of weather made the mission harder?",
+          a: "Dust storms made it much harder, because the blowing dust filled the air and hid the desert that they were searching.",
+        },
+        {
+          q: "What was Leah doing at home when the mission call came?",
+          a: "She was happily gardening, looking after her plants and flowers, when her compass badge glowed and called her away.",
+        },
+      ],
+    },
+    {
+      id: "se-13",
+      number: 13,
+      title: "The Secret Explorers and the Sunken Treasure",
+      color: "#00838f",
+      verified: true,
+      listenFor:
+        "Listen for what the explorers are hunting for, and which sea animal needs their help instead.",
+      questions: [
+        {
+          q: "Which two Secret Explorers went on this mission, and what is each one an expert in?",
+          a: "Connor, the marine expert, and Kiki, the engineering expert, were the two chosen to go treasure hunting together.",
+        },
+        {
+          q: "What did the explorers set out to look for on this mission?",
+          a: "They set out to hunt for pirate treasure, searching the sea for a lost pirate ship that had sunk down to the seabed.",
+        },
+        {
+          q: "Which sea animal needed the explorers' help?",
+          a: "A basking shark needed their help, which is a huge, harmless shark that swims along with its enormous mouth wide open.",
+        },
+        {
+          q: "What had happened to that sea animal?",
+          a: "It had got caught and trapped in a fishing net, and the book has a whole chapter about it called “Trapped in a net”.",
+        },
+        {
+          q: "What was Connor doing at the start of the story?",
+          a: "He was down at a rock pool by the sea, looking at the little creatures in it, when the Secret Explorers roll call came.",
+        },
+      ],
+    },
+    {
+      id: "se-14",
+      number: 14,
+      title: "The Secret Explorers and the Cave Crisis",
+      color: "#311b92",
+      verified: false,
+      listenFor:
+        "Listen for which animals live in the caves, and why the mission turns out to be tricky.",
+      questions: [
+        {
+          q: "Which two Secret Explorers went on this mission, and what is each one an expert in?",
+          a: "Leah, the biology expert, and Cheng, the geology expert, were the two chosen to go down into the caves together.",
+        },
+        {
+          q: "Where did this mission take the explorers?",
+          a: "It took them to a network of caves in India, which the book calls the Blue Caves, deep under the ground in the dark.",
+        },
+        {
+          q: "Which animals did the explorers find living in the caves?",
+          a: "They found a colony of horseshoe bats, which find their way about in the dark by using sound, called echolocation.",
+        },
+        {
+          q: "Which part of the cave were the explorers not supposed to go into?",
+          a: "There was a part called the forbidden chamber, and the book has a whole chapter about it with that same name.",
+        },
+        {
+          q: "What was being taken out of the caves that made this a crisis?",
+          a: "People were digging precious stones out of the caves without permission, which was damaging the caves and the bats.",
         },
       ],
     },
